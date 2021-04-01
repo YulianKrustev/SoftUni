@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.exe
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.deps.json
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.json
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\LEGION\source\repos\Array\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.genruntimeconfig.cache

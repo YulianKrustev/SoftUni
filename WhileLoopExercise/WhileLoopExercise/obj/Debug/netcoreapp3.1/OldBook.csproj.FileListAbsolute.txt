@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.exe
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.deps.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.runtimeconfig.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.dll
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\bin\Debug\netcoreapp3.1\OldBook.pdb
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.dll
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.pdb
+C:\Users\LEGION\source\repos\WhileLoopExercise\WhileLoopExercise\obj\Debug\netcoreapp3.1\OldBook.genruntimeconfig.cache

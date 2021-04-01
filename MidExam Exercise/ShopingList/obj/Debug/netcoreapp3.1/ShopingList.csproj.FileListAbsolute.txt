@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.exe
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.deps.json
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.runtimeconfig.json
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.dll
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\bin\Debug\netcoreapp3.1\ShopingList.pdb
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.dll
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.pdb
+C:\Users\LEGION\source\repos\MidExam Exercise\ShopingList\obj\Debug\netcoreapp3.1\ShopingList.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.exe
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.deps.json
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.json
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\bin\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.dll
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.pdb
+C:\Users\LEGION\source\repos\LoopsExcercise\DivideWithoutRemainder\obj\Debug\netcoreapp3.1\DivideWithoutRemainder.genruntimeconfig.cache

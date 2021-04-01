@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.exe
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.deps.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.dll
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.pdb
+C:\Users\LEGION\source\repos\WhileLoopExercise\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.genruntimeconfig.cache

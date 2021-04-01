@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.exe
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.deps.json
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.runtimeconfig.json
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.dll
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\bin\Debug\netcoreapp3.1\03. Skip Rope.pdb
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.dll
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.pdb
+C:\Users\LEGION\source\repos\More Exercises Lists\03. Skip Rope\obj\Debug\netcoreapp3.1\03. Skip Rope.genruntimeconfig.cache

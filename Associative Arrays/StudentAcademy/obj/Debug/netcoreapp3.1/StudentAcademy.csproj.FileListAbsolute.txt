@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.exe
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.deps.json
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.json
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\bin\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.dll
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.pdb
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Associative Arrays\StudentAcademy\obj\Debug\netcoreapp3.1\StudentAcademy.csprojAssemblyReference.cache

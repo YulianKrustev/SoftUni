@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.exe
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.deps.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.runtimeconfig.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.dll
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\bin\Debug\netcoreapp3.1\Special Number.pdb
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.dll
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.pdb
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\Special Number\obj\Debug\netcoreapp3.1\Special Number.csprojAssemblyReference.cache

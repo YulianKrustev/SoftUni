@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.exe
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.deps.json
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.runtimeconfig.json
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.dll
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\bin\Debug\netcoreapp3.1\Store Boxes.pdb
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.dll
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.pdb
+C:\Users\LEGION\source\repos\ClassesAndObjects\Store Boxes\obj\Debug\netcoreapp3.1\Store Boxes.genruntimeconfig.cache

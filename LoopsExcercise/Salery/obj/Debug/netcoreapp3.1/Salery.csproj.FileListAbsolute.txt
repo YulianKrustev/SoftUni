@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.exe
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.deps.json
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.runtimeconfig.json
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.dll
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\bin\Debug\netcoreapp3.1\Salery.pdb
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.dll
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.pdb
+C:\Users\LEGION\source\repos\LoopsExcercise\Salery\obj\Debug\netcoreapp3.1\Salery.genruntimeconfig.cache

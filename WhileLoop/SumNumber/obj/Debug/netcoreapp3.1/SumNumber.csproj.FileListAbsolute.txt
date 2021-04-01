@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.exe
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.deps.json
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.runtimeconfig.json
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.dll
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\bin\Debug\netcoreapp3.1\SumNumber.pdb
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.dll
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.pdb
+C:\Users\LEGION\source\repos\WhileLoop\SumNumber\obj\Debug\netcoreapp3.1\SumNumber.genruntimeconfig.cache

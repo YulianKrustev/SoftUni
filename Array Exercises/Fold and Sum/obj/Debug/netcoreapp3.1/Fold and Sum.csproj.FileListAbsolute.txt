@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.exe
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.deps.json
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.json
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\bin\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.dll
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.pdb
+C:\Users\LEGION\source\repos\Array Exercises\Fold and Sum\obj\Debug\netcoreapp3.1\Fold and Sum.genruntimeconfig.cache

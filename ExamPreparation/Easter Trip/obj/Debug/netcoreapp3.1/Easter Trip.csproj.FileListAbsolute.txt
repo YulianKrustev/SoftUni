@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.exe
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.deps.json
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.runtimeconfig.json
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.dll
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\bin\Debug\netcoreapp3.1\Easter Trip.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.dll
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\Easter Trip\obj\Debug\netcoreapp3.1\Easter Trip.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.exe
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.deps.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\bin\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\String Explosion\obj\Debug\netcoreapp3.1\String Explosion.csprojAssemblyReference.cache

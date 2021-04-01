@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.exe
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.deps.json
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.json
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.dll
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.pdb
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.dll
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.pdb
+C:\Users\LEGION\source\repos\Exercise Data Types and Variables\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.genruntimeconfig.cache

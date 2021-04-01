@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.exe
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.deps.json
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.json
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\bin\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.dll
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.pdb
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Methods\Multiply Evens by Odds\obj\Debug\netcoreapp3.1\Multiply Evens by Odds.csprojAssemblyReference.cache

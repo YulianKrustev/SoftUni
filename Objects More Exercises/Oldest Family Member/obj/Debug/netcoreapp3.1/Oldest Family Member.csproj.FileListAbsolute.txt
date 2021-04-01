@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.exe
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.deps.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.runtimeconfig.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.dll
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\bin\Debug\netcoreapp3.1\Oldest Family Member.pdb
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.dll
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.pdb
+C:\Users\LEGION\source\repos\Objects More Exercises\Oldest Family Member\obj\Debug\netcoreapp3.1\Oldest Family Member.genruntimeconfig.cache

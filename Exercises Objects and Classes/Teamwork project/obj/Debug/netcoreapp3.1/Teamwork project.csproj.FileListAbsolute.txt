@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.exe
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.deps.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.runtimeconfig.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.dll
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\bin\Debug\netcoreapp3.1\Teamwork project.pdb
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.dll
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.pdb
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Teamwork project\obj\Debug\netcoreapp3.1\Teamwork project.genruntimeconfig.cache

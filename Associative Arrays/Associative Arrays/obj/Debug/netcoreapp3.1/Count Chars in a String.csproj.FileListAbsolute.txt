@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.exe
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.deps.json
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.runtimeconfig.json
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.dll
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\bin\Debug\netcoreapp3.1\Count Chars in a String.pdb
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.dll
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.pdb
+C:\Users\LEGION\source\repos\Associative Arrays\Associative Arrays\obj\Debug\netcoreapp3.1\Count Chars in a String.genruntimeconfig.cache

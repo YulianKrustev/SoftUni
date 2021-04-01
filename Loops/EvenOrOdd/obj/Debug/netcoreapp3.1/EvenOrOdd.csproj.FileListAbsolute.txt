@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb
+C:\Users\LEGION\source\repos\Loops\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.genruntimeconfig.cache

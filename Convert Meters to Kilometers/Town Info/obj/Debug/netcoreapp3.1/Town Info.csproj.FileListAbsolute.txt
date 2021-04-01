@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.exe
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.deps.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.runtimeconfig.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\bin\Debug\netcoreapp3.1\Town Info.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Town Info\obj\Debug\netcoreapp3.1\Town Info.genruntimeconfig.cache

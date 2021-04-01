@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.exe
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.deps.json
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.json
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\Users\LEGION\source\repos\MidExam\MidExam\bin\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.dll
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.pdb
+C:\Users\LEGION\source\repos\MidExam\MidExam\obj\Debug\netcoreapp3.1\Counter-Strike.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.exe
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.deps.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.runtimeconfig.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\bin\Debug\netcoreapp3.1\Extract Person Information.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\Extract Person Information\obj\Debug\netcoreapp3.1\Extract Person Information.genruntimeconfig.cache

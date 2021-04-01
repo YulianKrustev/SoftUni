@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.exe
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.deps.json
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.runtimeconfig.json
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.dll
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\bin\Debug\netcoreapp3.1\ЕастерЦомпетитион.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.dll
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\ЕастерЦомпетитион\obj\Debug\netcoreapp3.1\ЕастерЦомпетитион.genruntimeconfig.cache

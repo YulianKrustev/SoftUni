@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.exe
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.deps.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\bin\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.dll
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.pdb
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Synonyms\obj\Debug\netcoreapp3.1\Word Synonyms.genruntimeconfig.cache

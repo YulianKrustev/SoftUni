@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.exe
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.deps.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\bin\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Centuries to Minutes\obj\Debug\netcoreapp3.1\Centuries to Minutes.genruntimeconfig.cache

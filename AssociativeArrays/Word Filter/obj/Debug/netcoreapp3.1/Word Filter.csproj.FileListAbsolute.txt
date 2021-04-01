@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.exe
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.deps.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.runtimeconfig.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.dll
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\bin\Debug\netcoreapp3.1\Word Filter.pdb
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.dll
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.pdb
+C:\Users\LEGION\source\repos\AssociativeArrays\Word Filter\obj\Debug\netcoreapp3.1\Word Filter.genruntimeconfig.cache

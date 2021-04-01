@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.exe
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.deps.json
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.json
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.dll
+C:\Users\LEGION\source\repos\StudentInfo\Debug\bin\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.dll
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.pdb
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\StudentInfo\Debug\obj\Debug\netcoreapp3.1\Debug.csprojAssemblyReference.cache

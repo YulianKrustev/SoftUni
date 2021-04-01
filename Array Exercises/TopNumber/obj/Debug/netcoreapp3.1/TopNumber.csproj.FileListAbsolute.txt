@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\LEGION\source\repos\Array Exercises\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache

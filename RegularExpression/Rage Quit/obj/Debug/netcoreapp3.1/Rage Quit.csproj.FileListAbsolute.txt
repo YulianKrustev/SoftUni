@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.exe
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.deps.json
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.runtimeconfig.json
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.dll
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\bin\Debug\netcoreapp3.1\Rage Quit.pdb
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.dll
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.pdb
+C:\Users\LEGION\source\repos\RegularExpression\Rage Quit\obj\Debug\netcoreapp3.1\Rage Quit.genruntimeconfig.cache

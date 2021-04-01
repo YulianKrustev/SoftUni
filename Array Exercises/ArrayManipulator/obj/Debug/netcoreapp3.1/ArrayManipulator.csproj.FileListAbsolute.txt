@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.exe
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.deps.json
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.json
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\bin\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.dll
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.pdb
+C:\Users\LEGION\source\repos\Array Exercises\ArrayManipulator\obj\Debug\netcoreapp3.1\ArrayManipulator.genruntimeconfig.cache

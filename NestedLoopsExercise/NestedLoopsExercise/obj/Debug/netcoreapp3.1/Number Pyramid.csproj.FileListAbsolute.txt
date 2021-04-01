@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.exe
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.deps.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\bin\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.dll
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.pdb
+C:\Users\LEGION\source\repos\NestedLoopsExercise\NestedLoopsExercise\obj\Debug\netcoreapp3.1\Number Pyramid.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.exe
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.deps.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\bin\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.dll
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.pdb
+C:\Users\LEGION\source\repos\Convert Meters to Kilometers\Pounds to Dollars\obj\Debug\netcoreapp3.1\Pounds to Dollars.genruntimeconfig.cache

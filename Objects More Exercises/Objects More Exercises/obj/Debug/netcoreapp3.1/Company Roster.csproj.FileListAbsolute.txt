@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.exe
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.deps.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.runtimeconfig.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.dll
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\bin\Debug\netcoreapp3.1\Company Roster.pdb
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.dll
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.pdb
+C:\Users\LEGION\source\repos\Objects More Exercises\Objects More Exercises\obj\Debug\netcoreapp3.1\Company Roster.genruntimeconfig.cache

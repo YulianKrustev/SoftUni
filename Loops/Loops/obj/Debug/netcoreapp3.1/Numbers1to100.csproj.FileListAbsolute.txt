@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.exe
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.deps.json
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.runtimeconfig.json
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.dll
+C:\Users\LEGION\source\repos\Loops\Loops\bin\Debug\netcoreapp3.1\Numbers1to100.pdb
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.dll
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.pdb
+C:\Users\LEGION\source\repos\Loops\Loops\obj\Debug\netcoreapp3.1\Numbers1to100.genruntimeconfig.cache

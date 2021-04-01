@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.exe
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.deps.json
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.json
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\bin\Debug\netcoreapp3.1\06. Cards Game.pdb
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.dll
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.pdb
+C:\Users\LEGION\source\repos\Exercise Lists\06. Cards Game\obj\Debug\netcoreapp3.1\06. Cards Game.genruntimeconfig.cache

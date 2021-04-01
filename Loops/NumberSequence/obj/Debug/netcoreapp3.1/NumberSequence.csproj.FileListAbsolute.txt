@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\LEGION\source\repos\Loops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\LEGION\source\repos\Loops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache

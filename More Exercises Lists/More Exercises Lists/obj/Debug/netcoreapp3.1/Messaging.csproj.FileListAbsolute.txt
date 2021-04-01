@@ -1,0 +1,12 @@
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.exe
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.deps.json
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.json
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\bin\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.dll
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.pdb
+C:\Users\LEGION\source\repos\More Exercises Lists\More Exercises Lists\obj\Debug\netcoreapp3.1\Messaging.genruntimeconfig.cache

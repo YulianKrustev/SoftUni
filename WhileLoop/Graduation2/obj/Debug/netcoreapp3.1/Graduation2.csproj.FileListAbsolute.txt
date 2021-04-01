@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.exe
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.deps.json
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.json
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.dll
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\bin\Debug\netcoreapp3.1\Graduation2.pdb
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.dll
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.pdb
+C:\Users\LEGION\source\repos\WhileLoop\Graduation2\obj\Debug\netcoreapp3.1\Graduation2.genruntimeconfig.cache

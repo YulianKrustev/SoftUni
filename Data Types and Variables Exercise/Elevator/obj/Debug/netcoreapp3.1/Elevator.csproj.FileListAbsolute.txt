@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.exe
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.deps.json
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.json
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\bin\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.dll
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.pdb
+C:\Users\LEGION\source\repos\Data Types and Variables Exercise\Elevator\obj\Debug\netcoreapp3.1\Elevator.genruntimeconfig.cache

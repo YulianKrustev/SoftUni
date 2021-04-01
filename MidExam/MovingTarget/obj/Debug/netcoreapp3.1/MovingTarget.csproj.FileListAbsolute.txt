@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.exe
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.deps.json
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.runtimeconfig.json
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.dll
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\bin\Debug\netcoreapp3.1\MovingTarget.pdb
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.dll
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.pdb
+C:\Users\LEGION\source\repos\MidExam\MovingTarget\obj\Debug\netcoreapp3.1\MovingTarget.genruntimeconfig.cache

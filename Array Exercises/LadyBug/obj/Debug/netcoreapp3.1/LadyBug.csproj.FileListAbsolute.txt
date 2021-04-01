@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.exe
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.deps.json
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.runtimeconfig.json
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.dll
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\bin\Debug\netcoreapp3.1\LadyBug.pdb
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.dll
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.pdb
+C:\Users\LEGION\source\repos\Array Exercises\LadyBug\obj\Debug\netcoreapp3.1\LadyBug.genruntimeconfig.cache

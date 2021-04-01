@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.exe
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.deps.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\bin\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.dll
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.pdb
+C:\Users\LEGION\source\repos\Exercises Objects and Classes\Vehicle Catalogue\obj\Debug\netcoreapp3.1\Vehicle Catalogue.genruntimeconfig.cache

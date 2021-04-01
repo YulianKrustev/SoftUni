@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.exe
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.deps.json
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.json
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\bin\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.dll
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.pdb
+C:\Users\LEGION\source\repos\ExamPreparation\TournamentOfChristmas\obj\Debug\netcoreapp3.1\TournamentOfChristmas.genruntimeconfig.cache

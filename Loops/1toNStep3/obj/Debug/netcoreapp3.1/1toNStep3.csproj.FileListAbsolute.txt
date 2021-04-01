@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.exe
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.deps.json
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.runtimeconfig.json
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.dll
+C:\Users\LEGION\source\repos\Loops\1toNStep3\bin\Debug\netcoreapp3.1\1toNStep3.pdb
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.dll
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.pdb
+C:\Users\LEGION\source\repos\Loops\1toNStep3\obj\Debug\netcoreapp3.1\1toNStep3.genruntimeconfig.cache

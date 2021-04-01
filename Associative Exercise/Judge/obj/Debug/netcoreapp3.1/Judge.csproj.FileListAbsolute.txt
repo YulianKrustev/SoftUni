@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.exe
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.deps.json
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.json
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.dll
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\bin\Debug\netcoreapp3.1\Judge.pdb
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.dll
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.pdb
+C:\Users\LEGION\source\repos\Associative Exercise\Judge\obj\Debug\netcoreapp3.1\Judge.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.exe
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.deps.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.runtimeconfig.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\bin\Debug\netcoreapp3.1\Multiply BigNumber.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.dll
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.pdb
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Strings and Text Processing\Multiply BigNumber\obj\Debug\netcoreapp3.1\Multiply BigNumber.csprojAssemblyReference.cache

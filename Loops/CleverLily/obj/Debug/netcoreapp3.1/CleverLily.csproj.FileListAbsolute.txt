@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.exe
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.deps.json
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.json
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\LEGION\source\repos\Loops\CleverLily\bin\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.dll
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.pdb
+C:\Users\LEGION\source\repos\Loops\CleverLily\obj\Debug\netcoreapp3.1\CleverLily.genruntimeconfig.cache

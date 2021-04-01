@@ -1,0 +1,13 @@
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.exe
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.deps.json
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.json
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.runtimeconfig.dev.json
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.dll
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\bin\Debug\netcoreapp3.1\Printing Triangle.pdb
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.dll
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.pdb
+C:\Users\LEGION\source\repos\Methods\Printing Triangle\obj\Debug\netcoreapp3.1\Printing Triangle.genruntimeconfig.cache
