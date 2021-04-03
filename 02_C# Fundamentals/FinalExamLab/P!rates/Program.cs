@@ -42,17 +42,12 @@ namespace P_rates
                     cities[command[1]][1] -= int.Parse(command[3]);
                     Console.WriteLine($"{command[1]} plundered! {command[3]} gold stolen, {command[2]} citizens killed.");
 
-                    if (cities[command[1]][0] <= 0)
+                    if (cities[command[1]][0] <= 0 || cities[command[1]][1] <= 0)
                     {
                         cities.Remove(command[1]);
                         Console.WriteLine($"{command[1]} has been wiped off the map!");
 
                     }
-                    else if (cities[command[1]][1] <= 0)
-                    {
-                        cities.Remove(command[1]);
-                        Console.WriteLine($"{command[1]} has been wiped off the map!");
-                    }  
                 }
                 else if (command[0] == "Prosper")
                 {
