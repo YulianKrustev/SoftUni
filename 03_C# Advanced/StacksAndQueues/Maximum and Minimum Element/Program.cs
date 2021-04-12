@@ -24,17 +24,17 @@ namespace Maximum_and_Minimum_Element
                 {
                     numbers.Pop();
                 }
-                else if (tokens[0] == 3)
+                else if (tokens[0] == 3 && numbers.Count > 0)
                 {
                     Console.WriteLine(numbers.Max());
                 }
-                else if (tokens[0] == 4)
+                else if (tokens[0] == 4 && numbers.Count > 0)
                 {
                     Console.WriteLine(numbers.Min());
                 }
             }
 
-            Console.WriteLine(string.Join(",", numbers));
+            Console.WriteLine(string.Join(", ", numbers));
         }
     }
 }
