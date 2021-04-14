@@ -17,7 +17,7 @@ namespace Truck_Tour
                 truckTour.Enqueue(Console.ReadLine());
             }
 
-            for (int i = 0; i < pumps; i++)
+            for (int i = 0, j=0; i < pumps; i++, j++)
             {
                 string tokens = truckTour.Dequeue();
                 string[] current = tokens.Split();
@@ -25,7 +25,7 @@ namespace Truck_Tour
 
                 if (liters < 0)
                 {
-                    startIndex = i + 1;
+                    startIndex = j + 1;
                     liters = 0;
                 }
 

@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fashion Boutique", "..\Fash
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songs Queue", "..\Songs Queue\Songs Queue.csproj", "{D3BE4BC5-C05E-4751-B2CC-E3AA4114E53B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck Tour", "..\Truck Tour\Truck Tour.csproj", "{CFD53875-1DFD-464B-AC2F-7F80E3A9EDF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Truck Tour", "..\Truck Tour\Truck Tour.csproj", "{CFD53875-1DFD-464B-AC2F-7F80E3A9EDF2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanced Parentheses", "..\Balanced Parentheses\Balanced Parentheses.csproj", "{D5D69BAE-1E82-444F-97B3-1BB15C487A66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Text Editor", "..\Simple Text Editor\Simple Text Editor.csproj", "{83C0D8AB-E4A5-417F-860A-DA4B8767E473}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{CFD53875-1DFD-464B-AC2F-7F80E3A9EDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD53875-1DFD-464B-AC2F-7F80E3A9EDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD53875-1DFD-464B-AC2F-7F80E3A9EDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D69BAE-1E82-444F-97B3-1BB15C487A66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D69BAE-1E82-444F-97B3-1BB15C487A66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D69BAE-1E82-444F-97B3-1BB15C487A66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D69BAE-1E82-444F-97B3-1BB15C487A66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83C0D8AB-E4A5-417F-860A-DA4B8767E473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83C0D8AB-E4A5-417F-860A-DA4B8767E473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83C0D8AB-E4A5-417F-860A-DA4B8767E473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83C0D8AB-E4A5-417F-860A-DA4B8767E473}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
