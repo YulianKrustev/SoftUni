@@ -25,15 +25,17 @@ namespace Simple_Text_Editor
                         undoCommand.Push(builder.ToString());
                         break;
                     case 2:
-                        builder.Remove(builder.Length - int.Parse(tokens[1]), int.Parse(tokens[1]));
+                        int countToRemove = int.Parse(tokens[1]);
+                        builder.Remove(builder.Length - countToRemove, countToRemove);
                         undoCommand.Push(builder.ToString());
                         break;
                     case 3:
-                        Console.WriteLine(builder[int.Parse(tokens[1]) - 1]);
+                        int indexToPrint = int.Parse(tokens[1]);
+                        Console.WriteLine(builder[indexToPrint - 1]);
                         break;
                     case 4:
                         undoCommand.Pop();
-                        builder = new StringBuilder();
+                        builder.Clear();
                         builder.Append(undoCommand.Peek());
                         break;
                 }
