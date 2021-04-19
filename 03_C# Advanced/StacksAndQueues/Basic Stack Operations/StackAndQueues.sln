@@ -29,17 +29,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cups and bottles", "..\Cups
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStrings", "..\ReverseStrings\ReverseStrings.csproj", "{3605A412-48DC-4A24-9ABF-A0059FFAB7B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "..\StackSum\StackSum.csproj", "{6D170389-C9F4-479F-907F-58BFD8EEC380}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackSum", "..\StackSum\StackSum.csproj", "{6D170389-C9F4-479F-907F-58BFD8EEC380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "..\SimpleCalculator\SimpleCalculator.csproj", "{B2EB5D54-4EFF-4F6C-914D-B9A136A21992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleCalculator", "..\SimpleCalculator\SimpleCalculator.csproj", "{B2EB5D54-4EFF-4F6C-914D-B9A136A21992}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "..\MatchingBrackets\MatchingBrackets.csproj", "{5E85EFDC-0DD5-4B28-9596-714727F56939}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatchingBrackets", "..\MatchingBrackets\MatchingBrackets.csproj", "{5E85EFDC-0DD5-4B28-9596-714727F56939}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "..\PrintEvenNumbers\PrintEvenNumbers.csproj", "{6171D5D8-323D-41B8-940C-E7C9B6184CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrintEvenNumbers", "..\PrintEvenNumbers\PrintEvenNumbers.csproj", "{6171D5D8-323D-41B8-940C-E7C9B6184CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "..\Supermarket\Supermarket.csproj", "{DDAC1EA3-99AA-4BE4-985E-1D3DC1123274}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Supermarket", "..\Supermarket\Supermarket.csproj", "{DDAC1EA3-99AA-4BE4-985E-1D3DC1123274}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotPatato", "..\HotPatato\HotPatato.csproj", "{590CE4C0-ECB3-4C6E-894B-545483520E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotPatato", "..\HotPatato\HotPatato.csproj", "{590CE4C0-ECB3-4C6E-894B-545483520E7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficJam", "..\TrafficJam\TrafficJam.csproj", "{2056B42F-6190-4C86-A75A-6ADC0E06626B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{590CE4C0-ECB3-4C6E-894B-545483520E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{590CE4C0-ECB3-4C6E-894B-545483520E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{590CE4C0-ECB3-4C6E-894B-545483520E7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2056B42F-6190-4C86-A75A-6ADC0E06626B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2056B42F-6190-4C86-A75A-6ADC0E06626B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2056B42F-6190-4C86-A75A-6ADC0E06626B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2056B42F-6190-4C86-A75A-6ADC0E06626B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
