@@ -9,9 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMatrixColumns", "SumMatr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryDiagonal", "PrimaryDiagonal\PrimaryDiagonal.csproj", "{B7077639-9BD9-4FDF-B45F-DC25977A2D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{7E30DF30-8330-4F6B-92C7-0C3CF82358C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{7E30DF30-8330-4F6B-92C7-0C3CF82358C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareWithMaximumSum", "SquareWithMaximumSum\SquareWithMaximumSum.csproj", "{2AF407F3-4212-4AB8-AE81-218321068124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareWithMaximumSum", "SquareWithMaximumSum\SquareWithMaximumSum.csproj", "{2AF407F3-4212-4AB8-AE81-218321068124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jagged-ArrayModification", "Jagged-ArrayModification\Jagged-ArrayModification.csproj", "{1A298B40-0023-46F5-A30F-EA617EC751DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{D26F1781-82EA-44EC-AE33-A7D52D044178}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{2AF407F3-4212-4AB8-AE81-218321068124}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AF407F3-4212-4AB8-AE81-218321068124}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AF407F3-4212-4AB8-AE81-218321068124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A298B40-0023-46F5-A30F-EA617EC751DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A298B40-0023-46F5-A30F-EA617EC751DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A298B40-0023-46F5-A30F-EA617EC751DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A298B40-0023-46F5-A30F-EA617EC751DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26F1781-82EA-44EC-AE33-A7D52D044178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26F1781-82EA-44EC-AE33-A7D52D044178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26F1781-82EA-44EC-AE33-A7D52D044178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26F1781-82EA-44EC-AE33-A7D52D044178}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

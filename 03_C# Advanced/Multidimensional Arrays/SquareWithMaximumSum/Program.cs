@@ -42,12 +42,9 @@ namespace SquareWithMaximumSum
                             maxSum = currentSum;
                             rowToPrint = row;
                             colToPrint = col;
-                        }
-                        
-                    }
-                    
+                        }   
+                    }   
                 }
-
             }
 
             Console.WriteLine($"{matrix[rowToPrint, colToPrint]} {matrix[rowToPrint, colToPrint + 1]}");
