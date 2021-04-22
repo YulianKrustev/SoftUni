@@ -18,7 +18,7 @@ namespace PascalTriangle
 
                 for (int col = 0; col < row + 1; col++)
                 {
-                    if (row - 1 >= 0 && col - 1 >= 0 && col + 1 < row + 1)
+                    if (row - 1 >= 0 && col - 1 >= 0 && col < row)
                     {
                         array[row][col] = array[row - 1][col - 1] + array[row - 1][col];
                     }
