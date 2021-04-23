@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2X2SquaresInMatrix", "2X2Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{347B88DD-54F3-41A9-A876-7D5609D7032C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{67DD5586-A291-4B56-8A15-DB4594D8CD52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{347B88DD-54F3-41A9-A876-7D5609D7032C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347B88DD-54F3-41A9-A876-7D5609D7032C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347B88DD-54F3-41A9-A876-7D5609D7032C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
