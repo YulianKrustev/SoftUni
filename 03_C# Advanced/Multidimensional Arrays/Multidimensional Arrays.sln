@@ -17,15 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jagged-ArrayModification", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{D26F1781-82EA-44EC-AE33-A7D52D044178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{CDF697FF-AAF5-46B4-928E-EBEF78704360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagonalDifference", "DiagonalDifference\DiagonalDifference.csproj", "{CDF697FF-AAF5-46B4-928E-EBEF78704360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2X2SquaresInMatrix", "2X2SquaresInMatrix\2X2SquaresInMatrix.csproj", "{16AF5FE2-DB06-4B53-BDF4-D10E4C8BC6F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2X2SquaresInMatrix", "2X2SquaresInMatrix\2X2SquaresInMatrix.csproj", "{16AF5FE2-DB06-4B53-BDF4-D10E4C8BC6F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{347B88DD-54F3-41A9-A876-7D5609D7032C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximalSum", "MaximalSum\MaximalSum.csproj", "{347B88DD-54F3-41A9-A876-7D5609D7032C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrixShuffling", "MatrixShuffling\MatrixShuffling.csproj", "{76D7B2A0-0BEB-4345-ADCD-1125157E67D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{67DD5586-A291-4B56-8A15-DB4594D8CD52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnakeMoves", "SnakeMoves\SnakeMoves.csproj", "{67DD5586-A291-4B56-8A15-DB4594D8CD52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayManipulator", "JaggedArrayManipulator\JaggedArrayManipulator.csproj", "{10FE7D6F-39A6-4BDD-8497-0E07A5111FFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67DD5586-A291-4B56-8A15-DB4594D8CD52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FE7D6F-39A6-4BDD-8497-0E07A5111FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FE7D6F-39A6-4BDD-8497-0E07A5111FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FE7D6F-39A6-4BDD-8497-0E07A5111FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FE7D6F-39A6-4BDD-8497-0E07A5111FFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
