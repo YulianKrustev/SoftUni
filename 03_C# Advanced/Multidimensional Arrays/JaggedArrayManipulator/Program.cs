@@ -78,8 +78,7 @@ namespace JaggedArrayManipulator
             for (int row = 0; row < rows; row++)
             {
                 Console.WriteLine(string.Join(" ", matrix[row]));
-            }
-            
+            }           
         }
     }
 }
