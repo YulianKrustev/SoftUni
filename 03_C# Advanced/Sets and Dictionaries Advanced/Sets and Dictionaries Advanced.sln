@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets and Dictionaries Advanced", "Sets and Dictionaries Advanced\Sets and Dictionaries Advanced.csproj", "{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSameValuesInArray", "CountSameValuesInArray\CountSameValuesInArray.csproj", "{7DE72773-F56D-4B54-9F9B-84A8A2258373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE72773-F56D-4B54-9F9B-84A8A2258373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE72773-F56D-4B54-9F9B-84A8A2258373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE72773-F56D-4B54-9F9B-84A8A2258373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE72773-F56D-4B54-9F9B-84A8A2258373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C14E06AF-DD1B-47AA-AFA7-5A4C9889A321}
+	EndGlobalSection
+EndGlobal
