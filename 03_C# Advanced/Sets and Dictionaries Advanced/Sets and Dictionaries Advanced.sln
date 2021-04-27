@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sets and Dictionaries Advanced", "Sets and Dictionaries Advanced\Sets and Dictionaries Advanced.csproj", "{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sets and Dictionaries Advanced", "Sets and Dictionaries Advanced\Sets and Dictionaries Advanced.csproj", "{7B8F1162-3F86-4A01-AC07-27AAEF5E4980}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountSameValuesInArray", "CountSameValuesInArray\CountSameValuesInArray.csproj", "{7DE72773-F56D-4B54-9F9B-84A8A2258373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSameValuesInArray", "CountSameValuesInArray\CountSameValuesInArray.csproj", "{7DE72773-F56D-4B54-9F9B-84A8A2258373}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageStudentGrades", "AverageStudentGrades\AverageStudentGrades.csproj", "{3C339164-F324-4FD6-8A38-3B3E197C6563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageStudentGrades", "AverageStudentGrades\AverageStudentGrades.csproj", "{3C339164-F324-4FD6-8A38-3B3E197C6563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShop", "ProductShop\ProductShop.csproj", "{17D95A11-B6D5-4F0A-B33D-2C8088FBDE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesByContinentAndCountry", "CitiesByContinentAndCountry\CitiesByContinentAndCountry.csproj", "{CACA4A10-BDBD-4801-ACE8-207E1D43EAEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{3C339164-F324-4FD6-8A38-3B3E197C6563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C339164-F324-4FD6-8A38-3B3E197C6563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C339164-F324-4FD6-8A38-3B3E197C6563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D95A11-B6D5-4F0A-B33D-2C8088FBDE00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D95A11-B6D5-4F0A-B33D-2C8088FBDE00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D95A11-B6D5-4F0A-B33D-2C8088FBDE00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D95A11-B6D5-4F0A-B33D-2C8088FBDE00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CACA4A10-BDBD-4801-ACE8-207E1D43EAEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CACA4A10-BDBD-4801-ACE8-207E1D43EAEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CACA4A10-BDBD-4801-ACE8-207E1D43EAEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CACA4A10-BDBD-4801-ACE8-207E1D43EAEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
