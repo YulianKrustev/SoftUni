@@ -8,7 +8,7 @@ namespace SoftUniParty
         static void Main(string[] args)
         {
             HashSet<string> database = new HashSet<string>();
-            HashSet<string> vipp = new HashSet<string>();
+
             string input = Console.ReadLine();
 
             while (input != "PARTY")
@@ -25,25 +25,22 @@ namespace SoftUniParty
                 input = Console.ReadLine();
             }
 
-            foreach (var vip in database)
-            {   
-                if (int.TryParse(vip[0].ToString(), out _))
-                {
-                    vipp.Add(vip);
-                    database.Remove(vip);
-                }
-            }
+            Console.WriteLine(database.Count);
 
-            Console.WriteLine(database.Count +vipp.Count);
-
-            foreach (var guest in vipp)
+            foreach (var guest in database)
             {
-                Console.WriteLine(guest);
+                if (char.IsDigit(guest[0]))
+                {
+                    Console.WriteLine(guest);
+                }
             }
 
             foreach (var guest in database)
             {
-                Console.WriteLine(guest);
+                if (char.IsLetter(guest[0]))
+                {
+                    Console.WriteLine(guest);
+                }
             }
         }
     }
