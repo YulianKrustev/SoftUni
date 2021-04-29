@@ -30,11 +30,6 @@ namespace Cups_and_bottles
                 {
                     currentCup -= currentBottle;
                     currentBottle = bottlesList.Pop();
-
-                    if (currentCup < 0)
-                    {
-                        weastedWater -= currentCup;
-                    }
                 }
 
                 if (currentBottle >= currentCup)
@@ -53,8 +48,6 @@ namespace Cups_and_bottles
                 Console.WriteLine($"Bottles: {string.Join(" ", bottlesList)}");
                 Console.WriteLine($"Wasted litters of water: {weastedWater}");
             }
-            
-
         }
     }
 }
