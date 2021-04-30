@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetsOfElements", "SetsOfEle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeriodicTable", "PeriodicTable\PeriodicTable.csproj", "{7E6090F6-38E4-4FDC-8358-50A84BABC914}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenTimes", "EvenTimes\EvenTimes.csproj", "{DA9FB044-F95A-4133-8A78-D6F49B75A407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenTimes", "EvenTimes\EvenTimes.csproj", "{DA9FB044-F95A-4133-8A78-D6F49B75A407}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountSymbols", "CountSymbols\CountSymbols.csproj", "{44D458FD-FB13-4FA1-B070-E8D8C557A906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "Wardrobe\Wardrobe.csproj", "{3C26B263-BA63-484A-B61A-15ECBE56696E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{DA9FB044-F95A-4133-8A78-D6F49B75A407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA9FB044-F95A-4133-8A78-D6F49B75A407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA9FB044-F95A-4133-8A78-D6F49B75A407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D458FD-FB13-4FA1-B070-E8D8C557A906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D458FD-FB13-4FA1-B070-E8D8C557A906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D458FD-FB13-4FA1-B070-E8D8C557A906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D458FD-FB13-4FA1-B070-E8D8C557A906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C26B263-BA63-484A-B61A-15ECBE56696E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C26B263-BA63-484A-B61A-15ECBE56696E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C26B263-BA63-484A-B61A-15ECBE56696E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C26B263-BA63-484A-B61A-15ECBE56696E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
