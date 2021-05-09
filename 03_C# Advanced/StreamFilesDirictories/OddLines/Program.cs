@@ -7,19 +7,31 @@ namespace OddLines
     {
         static void Main(string[] args)
         {
-            int counter = 0;
-
             using (var input = new StreamReader("input.txt"))
             {
-                while (input.EndOfStream == false)
+                int counter = 1;
+
+                while (!input.EndOfStream)
                 {
                     counter++;
                     string currentLine = input.ReadLine();
 
-                    if (counter % 2 == 0)
+                    if (counter % 2 == 1)
                     {
-                        Console.WriteLine(currentLine);
+                        using (var output = new StreamWriter("output.txt", true))
+                        {
+                            output.WriteLine(currentLine);
+                        }
                     }
+                }
+            }
+
+            using (var output = new StreamReader("output.txt"))
+            {
+                while (!output.EndOfStream)
+                {
+
+                    Console.WriteLine(output.ReadLine());
                 }
             }
         }
