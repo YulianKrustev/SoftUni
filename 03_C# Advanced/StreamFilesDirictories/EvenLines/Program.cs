@@ -31,14 +31,17 @@ namespace EvenLines
 
                         for (int i = currentSplit.Length - 1; i >= 0; i--)
                         {
-                            revarse.Append(currentSplit[i]);
+                            revarse.Append(currentSplit[i] + " ");
                         }
                         text.Add(revarse);
                     }
                 }
             }
 
-            Console.WriteLine(string.Join(" ", text));
+            foreach (var item in text)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
