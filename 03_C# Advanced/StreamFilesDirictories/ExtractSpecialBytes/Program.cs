@@ -9,7 +9,7 @@ namespace ExtractSpecialBytes
         {
             string[] bytes = File.ReadAllText("bytes.txt").Split();
 
-            string[] png = File.ReadAllText("example.png").Split();
+            string[] png = File.ReadAllText("example.png").Split().;
 
             Console.WriteLine(png[0]);
 
