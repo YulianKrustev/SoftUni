@@ -10,7 +10,7 @@ namespace EvenLines
     {
         static void Main(string[] args)
         {
-            List<StringBuilder> text = new List<StringBuilder>();
+
             int counter = 0;
 
             using (StreamReader sr = new StreamReader(@"../../../text.txt"))
@@ -26,21 +26,10 @@ namespace EvenLines
                     {
                         current = current.Replace('-', '@').Replace('.', '@').Replace(',', '@').Replace('!', '@').Replace('?', '@');
                         string[] currentSplit = current.Split();
-
-                        StringBuilder revarse = new StringBuilder();
-
-                        for (int i = currentSplit.Length - 1; i >= 0; i--)
-                        {
-                            revarse.Append(currentSplit[i] + " ");
-                        }
-                        text.Add(revarse);
+                        string revarse = $"{string.Join(" ", currentSplit.Reverse())}";
+                        Console.WriteLine(revarse);
                     }
                 }
-            }
-
-            foreach (var item in text)
-            {
-                Console.WriteLine(item);
             }
         }
     }
