@@ -7,25 +7,32 @@ namespace LineNumbers
     {
         static void Main(string[] args)
         {
-            string inputFile = "input.txt";
-            string output = "output.txt";
-
-            RerightFilesWithNumbers(inputFile, output);
-        }
-
-        private static void RerightFilesWithNumbers(string inputFile, string output)
-        {
-            using (StreamReader sr = new StreamReader(inputFile))
+            using(StreamReader sr = new StreamReader(@"../../../text.txt"))
             {
-                using (StreamWriter sw = new StreamWriter(output))
-                {
-                    int count = 1;
+                int counter = 0;
 
-                    while (sr.EndOfStream == false)
+                while (sr.EndOfStream ==false)
+                {
+                    string current = sr.ReadLine();
+                    int letters = 0;
+                    int puncruationMarks = 0;
+                    counter++;
+
+                    for (int i = 0; i < current.Length; i++)
                     {
-                        string current = sr.ReadLine();
-                        sw.WriteLine($"{count}. {current}");
-                        count++;
+                        if (char.IsLetter(current[i]))
+                        {
+                            letters++;
+                        }
+                        else if (current[i] != ' ')
+                        {
+                            puncruationMarks++;
+                        }
+                    }
+
+                    using (StreamWriter sw = new StreamWriter("output.txt", true))
+                    {
+                        sw.WriteLine($"Line {counter}: {current} ({letters})({puncruationMarks})");
                     }
                 }
             }
