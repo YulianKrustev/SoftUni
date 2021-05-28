@@ -1,0 +1,15 @@
+.txt
+--test1 - Copy (2).txt - 0 kb.
+--test1 - Copy (3).txt - 0 kb.
+--test1 - Copy.txt - 0 kb.
+--test1.txt - 0 kb.
+.json
+--DirectoryTraversal.deps.json - 0.446 kb.
+--DirectoryTraversal.runtimeconfig.dev.json - 0.176 kb.
+--DirectoryTraversal.runtimeconfig.json - 0.147 kb.
+.dll
+--DirectoryTraversal.dll - 6.656 kb.
+.exe
+--DirectoryTraversal.exe - 127.488 kb.
+.pdb
+--DirectoryTraversal.pdb - 10.296 kb.
