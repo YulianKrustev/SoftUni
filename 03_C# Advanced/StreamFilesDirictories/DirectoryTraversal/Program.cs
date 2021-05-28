@@ -11,7 +11,7 @@ namespace DirectoryTraversal
         {
             DirectoryInfo files = new DirectoryInfo(Environment.CurrentDirectory);
             var list = files.GetFiles();
-            Dictionary<string, SortedDictionary<string, long>> fullList = new Dictionary<string, SortedDictionary<string, long>>();
+            Dictionary<string, Dictionary<string, long>> fullList = new Dictionary<string, Dictionary<string, long>>();
 
             foreach (var file in list)
             {
@@ -21,7 +21,7 @@ namespace DirectoryTraversal
 
                 if (fullList.ContainsKey(currentExtension) == false)
                 {
-                    fullList.Add(currentExtension, new SortedDictionary<string, long>());
+                    fullList.Add(currentExtension, new Dictionary<string, long>());
                 }
 
                 fullList[currentExtension].Add(currentName, currenLength);
