@@ -7,15 +7,11 @@ namespace CountUppercaseWords
     {
         static void Main(string[] args)
         {
-            string[] words = Console.ReadLine()
+            Console.ReadLine()
                 .Split( " ", StringSplitOptions.RemoveEmptyEntries)
                 .Where(x => char.IsUpper(x[0]))
-                .ToArray();
-
-            foreach (var word in words)
-            {
-                Console.WriteLine(word);
-            }
+                .ToList()
+                .ForEach(x => Console.WriteLine(x));
         }
     }
 }
