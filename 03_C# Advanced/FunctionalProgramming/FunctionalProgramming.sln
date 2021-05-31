@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{36785D55-7EF6-4894-AA20-E29A0CF342C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalProgramming", "FunctionalProgramming\FunctionalProgramming.csproj", "{36785D55-7EF6-4894-AA20-E29A0CF342C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortEvenNumbers", "SortEvenNumbers\SortEvenNumbers.csproj", "{4A6E99CA-F499-41C9-B8F8-64E78853E450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortEvenNumbers", "SortEvenNumbers\SortEvenNumbers.csproj", "{4A6E99CA-F499-41C9-B8F8-64E78853E450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{009FABF5-4F86-4FEF-8705-4C83FFFF1026}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{009FABF5-4F86-4FEF-8705-4C83FFFF1026}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountUppercaseWords", "CountUppercaseWords\CountUppercaseWords.csproj", "{D55093FF-3235-419A-8F57-A01E7463CB1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountUppercaseWords", "CountUppercaseWords\CountUppercaseWords.csproj", "{D55093FF-3235-419A-8F57-A01E7463CB1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddVat", "AddVat\AddVat.csproj", "{82B9C208-3CB6-4576-A6AE-22E8CAA2E707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddVat", "AddVat\AddVat.csproj", "{82B9C208-3CB6-4576-A6AE-22E8CAA2E707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterByAge", "FilterByAge\FilterByAge.csproj", "{D6048221-0F61-4224-8022-EE3F87186915}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FilterByAge", "FilterByAge\FilterByAge.csproj", "{D6048221-0F61-4224-8022-EE3F87186915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionPoint", "ActionPoint\ActionPoint.csproj", "{E7A2097D-0543-4424-900D-6E85DC6BCD7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D6048221-0F61-4224-8022-EE3F87186915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6048221-0F61-4224-8022-EE3F87186915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6048221-0F61-4224-8022-EE3F87186915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7A2097D-0543-4424-900D-6E85DC6BCD7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7A2097D-0543-4424-900D-6E85DC6BCD7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7A2097D-0543-4424-900D-6E85DC6BCD7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7A2097D-0543-4424-900D-6E85DC6BCD7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
