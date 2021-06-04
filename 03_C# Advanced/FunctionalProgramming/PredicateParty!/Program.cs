@@ -11,90 +11,64 @@ namespace PredicateParty_
             List<string> people = Console.ReadLine().Split().ToList();
             string[] command = Console.ReadLine().Split();
 
-
             while (command[0] != "Party!")
             {
-                string firstToken = command[0];
-                string secondToken = command[1];
+                string action = command[0];
+                string condition = command[1];
 
-                if (firstToken == "Remove")
+                if (action == "Remove")
                 {
-                    switch (command[1])
+                    for (int i = 0; i < people.Count; i++)
                     {
-                        case "Length":
-                            people.Remove(people.Find(x => x.Length == int.Parse(command[2])));
-                            break;
-                        case "StartsWith":
-                            StartWith(people, command[2]);
-                            break;
-                        case "EndsWith":
-                            EndWith(people, command[2]);
-                            break;
+                        if (condition == "StartsWith" && people[i].StartsWith(command[2]))
+                        {
+                            people.Remove(people[i]);
+                        }
+                        else if (condition == "EndsWith" && people[i].EndsWith(command[2]))
+                        {
+                            people.Remove(people[i]);
+                        }
+                        else if (condition == "Length" && people[i].Length == int.Parse(command[2]))
+                        {
+                            people.Remove(people[i]);
+                        }
                     }
+                    
+
                 }
-                else
+                else if (action == "Double")
                 {
-                    switch (command[1])
+                    for (int i = 0; i < people.Count; i++)
                     {
-                        case "Length":
-                            people.Insert(1, "sad");
-                            break;
-                        case "StartsWith":
-                            AddStartWith(people, command[2]);
-                            break;
-                        case "EndsWith":
-                            AddEndWith(people, command[2]);
-                            break;
+                        if (condition == "StartsWith" && people[i].StartsWith(command[2]))
+                        {
+                            people.Insert(i, people[i]);
+                            i++;
+                        }
+                        else if (condition == "EndsWith" && people[i].EndsWith(command[2]))
+                        {
+                            people.Insert(i, people[i]);
+                            i++;
+                        }
+                        else if(condition == "Length" && people[i].Length == int.Parse(command[2]))
+                        {
+                            people.Insert(i, people[i]);
+                            i++;
+                        }
                     }
                 }
 
                 command = Console.ReadLine().Split();
             }
 
-            Console.WriteLine(string.Join(", ", people));
-        }
-
-        static List<string> StartWith(List<string> people, string command)
-        {
-            Predicate<string> cheker = x => x.StartsWith(command);
-            people.RemoveAll(cheker);
-            return people;
-        }
-
-        static List<string> EndWith(List<string> people, string command)
-        {
-            Predicate<string> cheker = x => x.EndsWith(command);
-            people.RemoveAll(cheker);
-            return people;
-        }
-
-        static List<string> AddStartWith(List<string> people, string command)
-        {
-            for (int i = 0; i < people.Count; i++)
+            if (people.Count == 0)
             {
-                if (people[i].StartsWith(command))
-                {
-                    people.Insert(i, people[i]);
-                }
+                Console.WriteLine("Nobody is going to the party!");
             }
-            return people;
-        }
-
-        static List<string> AddEndWith(List<string> people, string command)
-        {
-            for (int i = 0; i < people.Count; i++)
+            else
             {
-                if (people[i].EndsWith(command))
-                {
-                    people.Insert(i, people[i]);
-                }
+                Console.WriteLine($"{string.Join(", ", people)} are going to the party!");
             }
-            return people;
-        }
-
-        static List<string> CheckLength(List<string> people, int length)
-        {
-            return people;
         }
     }
 }
