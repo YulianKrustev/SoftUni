@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomComparator", "CustomC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListOfPredicates", "ListOfPredicates\ListOfPredicates.csproj", "{15ED1FFE-93E8-48D3-AD76-AFCA779B8128}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PredicateParty!", "PredicateParty!\PredicateParty!.csproj", "{E4B5AD4F-4229-4CAD-8708-4314FF80D1DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PredicateParty!", "PredicateParty!\PredicateParty!.csproj", "{E4B5AD4F-4229-4CAD-8708-4314FF80D1DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartyReservationFilterModule", "PartyReservationFilterModule\PartyReservationFilterModule.csproj", "{80E6E609-E65E-47F3-A5AD-1419CF765AEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{E4B5AD4F-4229-4CAD-8708-4314FF80D1DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4B5AD4F-4229-4CAD-8708-4314FF80D1DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4B5AD4F-4229-4CAD-8708-4314FF80D1DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E6E609-E65E-47F3-A5AD-1419CF765AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E6E609-E65E-47F3-A5AD-1419CF765AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E6E609-E65E-47F3-A5AD-1419CF765AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E6E609-E65E-47F3-A5AD-1419CF765AEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
