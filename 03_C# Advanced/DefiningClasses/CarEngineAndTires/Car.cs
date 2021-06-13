@@ -12,6 +12,8 @@ namespace CarManufacturer
         private int year;
         private double fuelQuantity;
         private double fuelConsumption;
+        private Engine engine;
+        private Tire[] tires;
 
         public Car()
         {
@@ -35,6 +37,12 @@ namespace CarManufacturer
             this.FuelConsumption = fuelConsumption;
         }
 
+        public Car(string make, string model, int year, double fuelQuantity, double fuelConsumption, Engine engine, Tire[] tires) :this(make, model, year, fuelConsumption, fuelQuantity)
+        {
+            this.Engine = engine;
+            this.Tires = tires;
+        }
+
         public string Make { get; set; }
 
         public string Model { get; set; }
@@ -44,5 +52,27 @@ namespace CarManufacturer
         public double FuelQuantity { get; set; }
 
         public double FuelConsumption { get; set; }
+
+        public Engine Engine { get; set; }
+
+        public Tire[] Tires { get; set; }
+
+        public void Drive(double distance)
+        {
+            double consumation = FuelConsumption * distance / 100;
+            if (FuelQuantity - consumation > 0)
+            {
+                FuelQuantity -= consumation;
+            }
+            else
+            {
+                Console.WriteLine("Not enough fuel to perform this trip!");
+            }
+        }
+
+        public string WhoAmI()
+        {
+            return $"Make: { this.Make}\nModel: { this.Model}\nYear: { this.Year}\nFuel: { this.FuelQuantity:F2}L";
+        }
     }
 }
