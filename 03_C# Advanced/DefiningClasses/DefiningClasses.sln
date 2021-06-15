@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarEngineAndTires", "CarEng
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialCars", "SpecialCars\SpecialCars.csproj", "{F69EECF7-6D66-4D28-A197-E88C1CB95CE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{D93CB246-F1BD-414D-91F2-31C2A5F1DDA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingConstructors", "DefiningClasses\CreatingConstructors.csproj", "{D93CB246-F1BD-414D-91F2-31C2A5F1DDA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{D273343B-8850-4E96-8AC1-4238EB76DE08}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D93CB246-F1BD-414D-91F2-31C2A5F1DDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D93CB246-F1BD-414D-91F2-31C2A5F1DDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D93CB246-F1BD-414D-91F2-31C2A5F1DDA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D273343B-8850-4E96-8AC1-4238EB76DE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D273343B-8850-4E96-8AC1-4238EB76DE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D273343B-8850-4E96-8AC1-4238EB76DE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D273343B-8850-4E96-8AC1-4238EB76DE08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
