@@ -22,12 +22,12 @@ namespace WorkShop
             get
             {
                 ValideteIndex(index);
-                return items[index]; 
+                return items[index];
             }
-            set 
+            set
             {
                 ValideteIndex(index);
-                items[index] = value; 
+                items[index] = value;
             }
         }
         public void Add(int i)
@@ -68,7 +68,7 @@ namespace WorkShop
                 items[i] = items[i + 1];
             }
 
-            items[items.Length-1] = default;
+            items[items.Length - 1] = default;
         }
 
         public int RemoveAt(int index)
@@ -89,6 +89,47 @@ namespace WorkShop
             {
                 throw new IndexOutOfRangeException();
             }
+        }
+
+        private void ShiftToRight(int index)
+        {
+            for (int i = Count - 1; i >= index; i--)
+            {
+                items[i] = items[i - 1];
+            }
+        }
+
+        public void Insert(int index, int element)
+        {
+            ValideteIndex(index);
+            Count++;
+            Resize();
+            ShiftToRight(index);
+            items[index] = element;
+        }
+
+        public bool Contains(int element)
+        {
+            for (int i = 0; i < Count; i++)
+            {
+                if (items[i] == element)
+                {
+                    return true;
+                } 
+            }
+
+            return false;
+        }
+
+        public void Swap(int index1, int index2)
+        {
+            ValideteIndex(index1);
+            ValideteIndex(index2);
+
+            int temp = items[index1];
+
+            items[index1] = items[index2];
+            items[index2] = temp;
         }
     }
 }
