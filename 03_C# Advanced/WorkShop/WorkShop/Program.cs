@@ -6,24 +6,19 @@ namespace WorkShop
     {
         static void Main(string[] args)
         {
-            CustomList list = new CustomList();
-            
-            for (int i = 0; i < 20; i++)
+
+            CustomStack stack = new CustomStack();
+
+            for (int i = 0; i < 10; i++)
             {
-                list.Add(i);
+                stack.Push(i);
+            }
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(stack.Pop()); 
             }
 
-            list.RemoveAt(1);
-            list.Insert(1, 1);
-
-            if (list.Contains(1))
-            {
-                list.Swap(1, 19);
-            }
-            for (int i = 0; i < list.Count; i++)
-            {
-                Console.WriteLine(list[i]);
-            }
+            stack.ForEach(x => Console.WriteLine(x));
         }
     }
 }
