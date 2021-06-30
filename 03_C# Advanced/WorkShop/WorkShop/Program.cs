@@ -6,19 +6,22 @@ namespace WorkShop
     {
         static void Main(string[] args)
         {
+            DoubleLinkedList list = new DoubleLinkedList();
 
-            CustomStack stack = new CustomStack();
+            list.AddLast(1);
+            list.AddLast(2);
+            list.AddLast(3);
+            list.AddLast(4);
 
-            for (int i = 0; i < 10; i++)
+            list.RemoveLast(); 
+
+
+            int[] array = list.ToArray();
+
+            foreach (var item in array)
             {
-                stack.Push(i);
+                Console.WriteLine(item);
             }
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine(stack.Pop()); 
-            }
-
-            stack.ForEach(x => Console.WriteLine(x));
         }
     }
 }
