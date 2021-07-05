@@ -28,10 +28,14 @@ namespace BoxOfT
 
         public T Remove()
         {
-
+            if (Count != 0)
+            {
                 T element = list.Last();
                 list.RemoveAt(Count - 1);
                 return element;
+            }
+
+            throw new InvalidOperationException("Can not remove element! The list is empty!");
         }
     }
 }
