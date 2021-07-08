@@ -1,18 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace WorkShop
 {
-    public class DoubleLinkedList
+    public class DoubleLinkedList<T>
+        where T : IComparable<T>
     {
-        public class Node
+        private class Node
         {
-            public Node(int value)
+            public Node(T value)
             {
                 this.Value = value;
             }
-            public int Value { get; }
+            public T Value { get; }
 
             public Node PreviousNode { get; set; }
 
@@ -21,9 +20,9 @@ namespace WorkShop
 
         private Node head;
         private Node tail;
-        public int Count { get; set; }
+        public int Count { get; private set; }
 
-        public void AddFirst(int element)
+        public void AddFirst(T element)
         {
             Node newHead = new Node(element);
 
@@ -41,7 +40,7 @@ namespace WorkShop
             Count++;
         }
 
-        public void AddLast(int element)
+        public void AddLast(T element)
         {
             Node newTail = new Node(element);
 
@@ -59,11 +58,11 @@ namespace WorkShop
             Count++;
         }
 
-        public int RemoveFirst()
+        public T RemoveFirst()
         {
             CheckIsempty();
 
-            int firstElement = head.Value;
+            T firstElement = head.Value;
             head = head.NextNode;
 
             if (head == null)
@@ -79,11 +78,11 @@ namespace WorkShop
             return firstElement;
         }
 
-        public int RemoveLast()
+        public T RemoveLast()
         {
             CheckIsempty();
 
-            int lastElement = tail.Value;
+            T lastElement = tail.Value;
             tail = tail.PreviousNode;
 
             if (tail == null)
@@ -99,9 +98,26 @@ namespace WorkShop
             return lastElement;
         }
 
-        public int[] ToArray()
+        public bool Contains(T element)
         {
-            int[] array = new int[Count];
+            Node currentNode = this.head;
+
+            while (currentNode != null)
+            {
+                if (currentNode.Value.CompareTo(element) == 0)
+                {
+                    return true;
+                }
+
+                currentNode = currentNode.NextNode;
+            }
+
+            return false;
+        }
+
+        public T[] ToArray()
+        {
+            T[] array = new T[Count];
             Node currentNode = head;
             int counter = 0;
 
@@ -113,7 +129,7 @@ namespace WorkShop
 
             return array;
         }
-        public void Print(Action<int> action)
+        public void Print(Action<T> action)
         {
             Node current = head;
 
