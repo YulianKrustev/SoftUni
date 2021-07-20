@@ -13,6 +13,7 @@ namespace IteratorsAndComparators
         public Library(params Book[] books)
         {
             this.books = new List<Book>(books);
+            this.books.Sort();
         }
 
         public IEnumerator<Book> GetEnumerator()
@@ -29,6 +30,7 @@ namespace IteratorsAndComparators
 
             public LibraryIterator(IEnumerable<Book> books)
             {
+                Reset();
                 this.books = new List<Book>(books);
             }
 
