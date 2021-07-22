@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorsAndComparators", "IteratorsAndComparators\IteratorsAndComparators.csproj", "{C13CC7E1-D18B-41FC-AA09-C4281165DECB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IteratorsAndComparators", "IteratorsAndComparators\IteratorsAndComparators.csproj", "{C13CC7E1-D18B-41FC-AA09-C4281165DECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{B625F30B-D2A0-4CAE-AF05-2A4CC55F8E1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C13CC7E1-D18B-41FC-AA09-C4281165DECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13CC7E1-D18B-41FC-AA09-C4281165DECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13CC7E1-D18B-41FC-AA09-C4281165DECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B625F30B-D2A0-4CAE-AF05-2A4CC55F8E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B625F30B-D2A0-4CAE-AF05-2A4CC55F8E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B625F30B-D2A0-4CAE-AF05-2A4CC55F8E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B625F30B-D2A0-4CAE-AF05-2A4CC55F8E1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
