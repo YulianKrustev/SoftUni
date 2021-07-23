@@ -37,6 +37,9 @@ namespace ListyIterator
                     case "hasnext":
                         Console.WriteLine(collection.HasNext()); 
                             break;
+                    case "printall":
+                        collection.PrintAll();
+                        break;
                 }
 
                 command = Console.ReadLine().ToLower();
