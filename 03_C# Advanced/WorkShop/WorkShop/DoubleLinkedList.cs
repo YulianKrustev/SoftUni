@@ -2,7 +2,7 @@
 
 namespace WorkShop
 {
-    public class DoubleLinkedList<T>
+    public class DoubleLinkedList<T> 
         where T : IComparable<T>
     {
         private class Node
