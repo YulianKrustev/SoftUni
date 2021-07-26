@@ -34,6 +34,8 @@ namespace Re_Volt
             for (int i = 0; i < countOfCommmands; i++)
             {
                 string command = Console.ReadLine();
+                int escapeRow = playerRow;
+                int escapeCol = playerCol;
 
                 if (command == "up")
                 {
@@ -49,7 +51,8 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerRow = playerRow + 1 < size == true ? playerRow + 1 : 0;
+                        playerCol = escapeCol;
+                        playerRow = escapeRow;
                     }
                 }
                 else if (command == "down")
@@ -66,7 +69,8 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerRow = playerRow < 0 == true ? playerRow - 1 : size - 1;
+                        playerCol = escapeCol;
+                        playerRow = escapeRow;
                     }
                 }
                 else if (command == "left")
@@ -83,7 +87,8 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerCol = playerCol + 1 < size == true ? playerCol + 1 : 0;
+                        playerCol = escapeCol;
+                        playerRow = escapeRow;
                     }
                 }
                 else if(command == "right")
@@ -100,7 +105,8 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerCol = playerCol > 0 == true ? playerCol - 1 : size - 1;
+                        playerCol = escapeCol;
+                        playerRow = escapeRow;
                     }
                 }
             }

@@ -8,41 +8,32 @@ namespace ExamPreparation
     {
         static void Main(string[] args)
         {
-            List<int> lootBoxOne = Console.ReadLine()
+            Queue<int> lootBoxOne = new Queue<int>(Console.ReadLine()
                 .Split()
-                .Select(int.Parse)
-                .ToList();
+                .Select(int.Parse));
 
-            List<int> lootBoxTwo = Console.ReadLine()
+            Stack<int> lootBoxTwo = new Stack<int>(Console.ReadLine()
                 .Split()
-                .Select(int.Parse)
-                .ToList();
+                .Select(int.Parse));
 
             int points = 0;
-            int i1 = 0;
-            int i2 = lootBoxTwo.Count - 1;
 
             while (lootBoxOne.Count > 0 && lootBoxTwo.Count > 0)
             {
-                int firstElement = lootBoxOne[i1];
-                int secondElement = lootBoxTwo[i2];
+                int firstElement = lootBoxOne.Peek();
+                int secondElement = lootBoxTwo.Pop();
 
                 int sum = firstElement + secondElement;
 
                 if (sum % 2 == 0)
                 {
                     points += sum;
-
-                    lootBoxOne.RemoveAt(0);
-                    lootBoxTwo.RemoveAt(lootBoxTwo.Count - 1);
+                    lootBoxOne.Dequeue();
                 }
                 else
                 {
-                    lootBoxTwo.RemoveAt(lootBoxTwo.Count - 1);
-                    lootBoxOne.Add(secondElement);
+                    lootBoxOne.Enqueue(secondElement);
                 }
-
-                i2 = lootBoxTwo.Count - 1;
             }
 
             if (lootBoxOne.Count == 0)
