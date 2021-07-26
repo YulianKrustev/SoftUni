@@ -66,7 +66,7 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerRow = playerRow - 1 < - 1 == true ? playerRow - 1 : size - 1;
+                        playerRow = playerRow < 0 == true ? playerRow - 1 : size - 1;
                     }
                 }
                 else if (command == "left")
@@ -100,7 +100,7 @@ namespace Re_Volt
                     }
                     else if (matrix[playerRow][playerCol] == 'T')
                     {
-                        playerCol = playerCol - 1 > -1 == true ? playerCol - 1 : size - 1;
+                        playerCol = playerCol > 0 == true ? playerCol - 1 : size - 1;
                     }
                 }
             }
@@ -133,7 +133,7 @@ namespace Re_Volt
 
         private static int MoveLeftIsPossible(int size, int playerCol)
         {
-            return playerCol - 1 > -1 == true ? playerCol - 1 : size - 1;
+            return playerCol > 0 == true ? playerCol - 1 : size - 1;
         }
 
         private static int MoveDownIsPossible(int size, int playerRow)
@@ -143,7 +143,7 @@ namespace Re_Volt
 
         private static int MoveUpIsPossible(int size, int playerRow)
         {
-            return playerRow - 1 > -1 == true ? playerRow - 1 : size - 1;
+            return playerRow > 0 == true ? playerRow - 1 : size - 1;
         }
     }
 }
