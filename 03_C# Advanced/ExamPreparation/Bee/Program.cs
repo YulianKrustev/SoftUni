@@ -186,7 +186,6 @@ namespace Bee
             }
            
             beeField[beeRow][beeCol] = 'B';
-            Console.WriteLine();
             Print();
         }
 
