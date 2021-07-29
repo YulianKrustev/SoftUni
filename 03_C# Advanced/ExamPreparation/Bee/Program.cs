@@ -62,6 +62,10 @@ namespace Bee
                                 beeRow--;
                                 beeField[beeRow][beeCol] = '.';
                             }
+                            else
+                            {
+                                beeRow--;
+                            }
                         }
                         else
                         {
@@ -93,6 +97,10 @@ namespace Bee
                                 popollinateFlowers++;
                                 beeRow++;
                                 beeField[beeRow][beeCol] = '.';
+                            }
+                            else
+                            {
+                                beeRow--;
                             }
                         }
                         else
@@ -126,6 +134,10 @@ namespace Bee
                                 beeCol--;
                                 beeField[beeRow][beeCol] = '.';
                             }
+                            else
+                            {
+                                beeRow--;
+                            }
                         }
                         else
                         {
@@ -158,6 +170,10 @@ namespace Bee
                                 beeCol++;
                                 beeField[beeRow][beeCol] = '.';
                             }
+                            else
+                            {
+                                beeRow--;
+                            }
                         }
                         else
                         {
@@ -168,8 +184,14 @@ namespace Bee
 
                 command = Console.ReadLine();
             }
-
+           
             beeField[beeRow][beeCol] = 'B';
+            Console.WriteLine();
+            Print();
+        }
+
+        private static void Print()
+        {
             if (popollinateFlowers < 5)
             {
                 Console.WriteLine($"The bee couldn't pollinate the flowers, she needed {5 - popollinateFlowers} flowers more");
@@ -190,20 +212,7 @@ namespace Bee
             beeField[beeRow][beeCol] = '.';
             Console.WriteLine("The bee got lost!");
 
-            if (popollinateFlowers < 5)
-            {
-                Console.WriteLine($"The bee couldn't pollinate the flowers, she needed {5 - popollinateFlowers} flowers more");
-            }
-            else
-            {
-                Console.WriteLine($"Great job, the bee managed to pollinate {popollinateFlowers} flowers!");
-            }
-
-            foreach (var row in beeField)
-            {
-                Console.WriteLine(row);
-            }
-
+            Print();
             Environment.Exit(0);
         }
     }
