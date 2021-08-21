@@ -11,6 +11,6 @@ namespace Restaurant
             this.Calories = calories;
         }
 
-        public double Calories { get; set; } 
+        public double Calories { get; private set; } 
     }
 }

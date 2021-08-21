@@ -11,6 +11,6 @@ namespace Restaurant
             this.Grams = grams;
         }
 
-        public double Grams { get; set; }
+        public double Grams { get; private set; }
     }
 }

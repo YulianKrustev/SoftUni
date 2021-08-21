@@ -19,7 +19,7 @@ namespace Animals
 
         public string Name
         {
-            get => this.name;
+            get => name;
 
             private set
             {
@@ -28,13 +28,13 @@ namespace Animals
                     throw new ArgumentException("Invalid input!");
                 }
 
-                this.name = value;
+                name = value;
             }
 
         }
         public int Age
         {
-            get => this.age;
+            get => age;
 
             private set
             {
@@ -43,12 +43,12 @@ namespace Animals
                     throw new ArgumentException("Invalid input!");
                 }
 
-                this.age = value;
+                age = value;
             }
         }
         public string Gender
         {
-            get => this.gender;
+            get => gender;
 
             set
             {
@@ -57,17 +57,20 @@ namespace Animals
                     throw new ArgumentException("Invalid input!");
                 }
 
-                this.gender = value;
+                gender = value;
             }
         }
 
-        public virtual void ProduceSound()
-        {
-        }
+        public abstract string ProduceSound();
 
         public override string ToString()
         {
-            return $"{this.Name} {this.Age} {this.Gender}";
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(this.GetType().Name);
+            sb.AppendLine($"{this.Name} {this.Age} {this.Gender}");
+            sb.AppendLine(this.ProduceSound());
+
+            return sb.ToString().TrimEnd();
         }
     }
 }

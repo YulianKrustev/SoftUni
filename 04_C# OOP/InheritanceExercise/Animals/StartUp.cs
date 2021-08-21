@@ -12,14 +12,14 @@ namespace Animals
 
             while (input != "Beast!")
             {
+                string[] tokens = Console.ReadLine()
+                                        .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                string name = tokens[0];
+                int age = int.Parse(tokens[1]);
+                string gender;
+
                 try
                 {
-                    string[] tokens = Console.ReadLine()
-                                        .Split(" ", StringSplitOptions.RemoveEmptyEntries);
-                    string name = tokens[0];
-                    int age = int.Parse(tokens[1]);
-                    string gender;
-
                     if (input == "Cat")
                     {
                         gender = tokens[2];
@@ -48,6 +48,10 @@ namespace Animals
                         Tomcat tom = new Tomcat(name, age);
                         animals.Add(tom);
                     }
+                    else
+                    {
+                        throw new ArgumentException("Invalid input!");
+                    }
                 }
                 catch (Exception ex)
                 {
@@ -59,12 +63,7 @@ namespace Animals
                 input = Console.ReadLine();
             }
 
-            foreach (var animal in animals)
-            {
-                Console.WriteLine(animal.GetType().Name);
-                Console.WriteLine(animal);
-                animal.ProduceSound();
-            }
+            animals.ForEach(Console.WriteLine);
         }
     }
 }

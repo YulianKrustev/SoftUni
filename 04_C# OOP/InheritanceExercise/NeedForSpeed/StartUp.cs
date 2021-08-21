@@ -4,15 +4,23 @@
     {
         public static void Main(string[] args)
         {
-            Car car = new Car(12, 33);
-            SportCar sportCar = new SportCar(12, 33);
 
-            car.Drive(10);
-            sportCar.Drive(10);
+            FamilyCar fc = new FamilyCar(50, 10);
+            fc.Drive(10);
 
-            System.Console.WriteLine(car.Fuel);
-            System.Console.WriteLine(sportCar.Fuel);
-            ;
+            SportCar sc = new SportCar(200, 10);
+            sc.Drive(10);
+
+            CrossMotorcycle cm = new CrossMotorcycle(60, 10);
+            cm.Drive(10);
+
+            RaceMotorcycle rm = new RaceMotorcycle(80, 10);
+            rm.Drive(10);
+
+            System.Console.WriteLine($"{fc.Fuel} {fc.FuelConsumption}");
+            System.Console.WriteLine($"{sc.Fuel} {sc.FuelConsumption}");
+            System.Console.WriteLine($"{cm.Fuel} {cm.FuelConsumption}");
+            System.Console.WriteLine($"{rm.Fuel} {rm.FuelConsumption}");
         }
     }
 }

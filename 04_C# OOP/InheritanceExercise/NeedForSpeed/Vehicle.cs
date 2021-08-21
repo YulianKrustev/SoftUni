@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NeedForSpeed
 {
-    public class Vehicle
+    public abstract class Vehicle
     {
         private const double defaultFuelConsumption = 1.25;
         
@@ -16,16 +16,11 @@ namespace NeedForSpeed
 
         public int HorsePower { get; set; }
         public double Fuel { get; set; }
-        public virtual double fuelConsumption => defaultFuelConsumption;
+        public virtual double FuelConsumption => defaultFuelConsumption;
 
         public virtual void Drive(double km)
         {
-            double neededFuel = km * fuelConsumption / 100;
-
-            if (neededFuel <= Fuel)
-            {
-                Fuel -= neededFuel;
-            }
+            Fuel -= FuelConsumption * km;
         }
     }
 }
