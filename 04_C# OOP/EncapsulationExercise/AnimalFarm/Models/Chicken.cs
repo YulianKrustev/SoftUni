@@ -1,74 +1,70 @@
-﻿namespace AnimalFarm.Models
+﻿using System;
+
+namespace AnimalFarm.Models
 {
     public class Chicken
     {
-        public const int MinAge = 0;
-        public const int MaxAge = 15;
+        private const int minAge = 0;
+        private const int maxAge = 15;
 
-        protected string name;
-        internal int age;
+        private string name;
+        private int age;
 
         internal Chicken(string name, int age)
         {
-            this.name = name;
-            this.age = age;
+            this.Name = name;
+            this.Age = age;
         }
 
         public string Name
         {
-            get
-            {
-                return this.name;
-            }
+            get { return this.name; }
 
-            internal set
+            private set
             {
+                if (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value))
+                {
+                    throw new ArgumentException("Name cannot be empty.");
+                }
+
                 this.name = value;
             }
         }
 
         public int Age
         {
-            get
-            {
-                return this.age;
-            }
+            get { return this.age; }
 
-            protected set
+            private set
             {
+                if (value < minAge || value > maxAge)
+                {
+                    throw new ArgumentException("Age should be between 0 and 15.");
+                }
+
                 this.age = value;
             }
         }
 
-        public double ProductPerDay
-        {
-			get
-			{				
-				return this.CalculateProductPerDay();
-			}
-        }
+        public double ProductPerDay => this.CalculateProductPerDay();
 
-        public double CalculateProductPerDay()
+        private double CalculateProductPerDay()
         {
-            switch (this.Age)
+            if (this.age <= 3)
             {
-                case 0:
-                case 1:
-                case 2:
-                case 3:
-                    return 1.5;
-                case 4:
-                case 5:
-                case 6:
-                case 7:
-                    return 2;
-                case 8:
-                case 9:
-                case 10:
-                case 11:
-                    return 1;
-                default:
-                    return 0.75;
+                return 1.5;
+            }
+            else if (this.age <= 7)
+            {
+                return 2;
+            }
+            else if (this.age <= 11)
+            {
+                return 1;
+            }
+            else
+            {
+                return 0.75;
             }
         }
     }
