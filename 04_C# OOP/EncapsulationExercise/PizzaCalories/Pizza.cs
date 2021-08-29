@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
+using System.Linq;
 
 namespace PizzaCalories
 {
@@ -9,9 +9,10 @@ namespace PizzaCalories
         private string name;
         private List<Topping> toppings;
 
-        public Pizza(string name, Dough dough, Topping topping)
+        public Pizza(string name, Dough dough)
         {
             Name = name;
+            Dough = dough;
             toppings = new List<Topping>();
         }
         public string Name 
@@ -19,7 +20,7 @@ namespace PizzaCalories
             get => name; 
             private set
             {
-                if (value.Length < 0 || value.Length > 16 || string.IsNullOrWhiteSpace(value))
+                if (value == string.Empty || value.Length > 16)
                 {
                     throw new ArgumentException("Pizza name should be between 1 and 15 symbols.");
                 }
@@ -27,25 +28,11 @@ namespace PizzaCalories
                 name = value;
             } 
         }
-        public Dough Dough { get; set; }
-        public IReadOnlyList<Topping> Toppings
-        {
-            get => toppings.AsReadOnly();
+        public Dough Dough { get; }
 
-        }
-        public double TotalCalories => GetTotalCalories();
+        public int ToppingsCount => toppings.Count;
 
-        private double GetTotalCalories()
-        {
-            double totalCalories = Dough.Calories;
-
-            foreach (Topping topping in toppings)
-            {
-                totalCalories += topping.ToppingCalories;
-            }
-
-            return totalCalories;
-        }
+        public double TotalCalories => Dough.Calories + toppings.Sum(x => x.ToppingCalories);
 
         public void AddToping(Topping topping)
         {

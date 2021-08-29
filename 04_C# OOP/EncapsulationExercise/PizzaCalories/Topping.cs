@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace PizzaCalories
 {
@@ -19,9 +17,9 @@ namespace PizzaCalories
         public string ToppingType 
         { 
             get => toppingType;
-            set 
+            private set 
             {
-                if (ToppingInfo.ToppingTypes.ContainsKey(value) == false)
+                if (ToppingInfo.ToppingTypes.ContainsKey(value.ToLower()) == false)
                 {
                     throw new ArgumentException($"Cannot place {value} on top of your pizza.");
                 }
@@ -33,7 +31,7 @@ namespace PizzaCalories
         public double Weight
         {
             get => weight;
-            set
+            private set
             {
                 if (ToppingWeight.CheckWeight(value) == false)
                 {
@@ -44,6 +42,6 @@ namespace PizzaCalories
             }
         }
 
-        public double ToppingCalories => caloriesPerGram * weight * ToppingInfo.ToppingTypes[toppingType];
+        public double ToppingCalories => caloriesPerGram * weight * ToppingInfo.ToppingTypes[toppingType.ToLower()];
     }
 }

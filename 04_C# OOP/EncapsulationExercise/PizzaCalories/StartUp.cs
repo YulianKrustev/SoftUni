@@ -6,43 +6,41 @@ namespace PizzaCalories
     {
         static void Main(string[] args)
         {
-            string[] dough = Console.ReadLine().Split();
-            string[] topping = Console.ReadLine().Split();
-
-            Console.ReadLine();
-
-            string doughType = dough[1].ToLower();
-            string bakingType = dough[2].ToLower();
-            double doughWeight = double.Parse(dough[3]);
-
-            string toppingType = topping[1].ToLower();
-            double toppingWeight = double.Parse(topping[2]);
-            Dough createDough = null;
-            Topping createTopping = null;
-
             try
             {
-                createDough = new Dough(doughType, bakingType, doughWeight);
-                Console.WriteLine($"{createDough.Calories:f2}");
+                string pizzaName = Console.ReadLine().Split()[1];               
+
+                string[] inputDoughInfo = Console.ReadLine().Split();
+                string flourType = inputDoughInfo[1];
+                string bakingType = inputDoughInfo[2];
+                double doughWeight = double.Parse(inputDoughInfo[3]);
+
+                Dough currentDough = new Dough(flourType, bakingType, doughWeight);
+
+                Pizza currentPizza = new Pizza(pizzaName, currentDough);
+
+                string command = Console.ReadLine();
+
+                while (command != "END")
+                {
+                    string[] currentTopping = command.Split();
+
+                    string toppingType = currentTopping[1];
+                    double toppingWeight = double.Parse(currentTopping[2]);
+
+                    Topping currenttopping = new Topping(toppingType, toppingWeight);
+                    currentPizza.AddToping(currenttopping);
+
+                    command = Console.ReadLine();
+                }
+
+                Console.WriteLine($"{currentPizza.Name} - {currentPizza.TotalCalories:f2} Calories.");
             }
             catch (Exception ex)
             {
-
-                Console.WriteLine(ex.Message); 
-            }
-
-            try
-            {
-                createTopping = new Topping(toppingType, toppingWeight);
-                Console.WriteLine($"{createTopping.ToppingCalories:f2}");
-            }
-            catch (Exception ex)
-            {
-
                 Console.WriteLine(ex.Message);
+                return;
             }
-
-
         }
     }
 }

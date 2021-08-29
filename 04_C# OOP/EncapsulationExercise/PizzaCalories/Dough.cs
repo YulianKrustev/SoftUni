@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace PizzaCalories
 {
@@ -10,24 +8,22 @@ namespace PizzaCalories
         private string flourType;
         private string baakingTechnique;
         private double weigth;
-        private double calories;
 
         public Dough(string flourType, string bakingTechniques, double wight)
         {
             FlourType = flourType;
             BakingTechniques = bakingTechniques;
-            Wight = wight;
-            calories = DoughthCalories();
+            Weight = wight;
         }
 
         public string FlourType 
         {
             get => flourType;
-            set
+            private set
             {
-                if (FlourInfo.Flours.ContainsKey(value) == false)
+                if (FlourInfo.Flours.ContainsKey(value.ToLower()) == false)
                 {
-                    throw new ArgumentException("Invalid type of dough");
+                    throw new ArgumentException("Invalid type of dough.");
                 }
 
                 flourType = value;
@@ -37,21 +33,21 @@ namespace PizzaCalories
         public string BakingTechniques
         {
             get => baakingTechnique;
-            set
+            private set
             {
-                if (BakingTechniquesInfo.BakingTechniques.ContainsKey(value) == false)
+                if (BakingTechniquesInfo.BakingTechniques.ContainsKey(value.ToLower()) == false)
                 {
-                    throw new ArgumentException("Invalid type of dough");
+                    throw new ArgumentException("Invalid type of dough.");
                 }
 
                 baakingTechnique = value;
             }
         }
 
-        public double Wight
+        public double Weight
         {
             get => weigth;
-            set
+            private set
             {
                 if (DoughWeight.CheckWeight(value) == false)
                 {
@@ -62,11 +58,6 @@ namespace PizzaCalories
             }
         }
 
-        public double Calories => calories;
-
-        private double DoughthCalories()
-        {
-            return weigth* calPerGram *FlourInfo.Flours[flourType] * BakingTechniquesInfo.BakingTechniques[baakingTechnique];
-        }
+        public double Calories => weigth * calPerGram * FlourInfo.Flours[flourType.ToLower()] * BakingTechniquesInfo.BakingTechniques[baakingTechnique.ToLower()];
     }
 }

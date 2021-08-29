@@ -12,7 +12,6 @@ namespace PizzaCalories
             { "chewy", 1.1 },
             { "homemade", 1.0 }
         };
-
         public static Dictionary<string, double> BakingTechniques => bakingTechniques;
     }
 }

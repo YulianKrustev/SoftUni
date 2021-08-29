@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace PizzaCalories
 {
@@ -13,10 +11,7 @@ namespace PizzaCalories
             { "cheese", 1.1 },
             { "sauce", 0.9 }
         };
-
         public static Dictionary<string, double> ToppingTypes => toppingTypes;
-
-
     }
 }
 

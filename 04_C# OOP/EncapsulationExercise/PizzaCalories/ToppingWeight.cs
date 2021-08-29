@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PizzaCalories
+﻿namespace PizzaCalories
 {
     public static class ToppingWeight
     {
