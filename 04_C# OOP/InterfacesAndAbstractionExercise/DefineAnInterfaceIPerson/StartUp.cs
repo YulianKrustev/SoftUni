@@ -11,7 +11,7 @@ namespace PersonInfo
             string id = Console.ReadLine();
             string birthdate = Console.ReadLine();
             IIdentifiable identifiable = new Citizen(name, age, id, birthdate);
-            IBirthable birthable = new Citizen(name, age, id, birthdate);
+            IBirthdateable birthable = new Citizen(name, age, id, birthdate);
             Console.WriteLine(identifiable.Id);
             Console.WriteLine(birthable.Birthdate);
 

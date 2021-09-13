@@ -1,6 +1,6 @@
 ﻿namespace BorderControl
 {
-    public class Citizen : IId
+    public class Citizen : IIdentifiable
     {
         public Citizen(string name, string age, string id)
         {

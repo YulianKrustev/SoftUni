@@ -3,12 +3,12 @@ using System.Collections.Generic;
 
 namespace BorderControl
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            List<IId> citizens = new List<IId>();
+            List<IIdentifiable> citizens = new List<IIdentifiable>();
 
             while (input != "End")
             {
@@ -37,7 +37,7 @@ namespace BorderControl
 
             string fakeId = Console.ReadLine();
 
-            foreach (IId citizen in citizens)
+            foreach (IIdentifiable citizen in citizens)
             {
                 if (citizen.Id.EndsWith(fakeId))
                 {

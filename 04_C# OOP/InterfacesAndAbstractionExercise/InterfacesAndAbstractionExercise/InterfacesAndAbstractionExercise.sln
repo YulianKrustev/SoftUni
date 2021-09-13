@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndAbstractionExercise", "InterfacesAndAbstractionExercise.csproj", "{45FB2BB4-F007-48F9-8EDC-166A408CB4E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesAndAbstractionExercise", "InterfacesAndAbstractionExercise.csproj", "{45FB2BB4-F007-48F9-8EDC-166A408CB4E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonInfo", "..\DefineAnInterfaceIPerson\PersonInfo.csproj", "{19B62251-E80E-4190-A6DC-E37B9382B9C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonInfo", "..\DefineAnInterfaceIPerson\PersonInfo.csproj", "{19B62251-E80E-4190-A6DC-E37B9382B9C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "..\Telephony\Telephony.csproj", "{9B210235-17AB-4240-9CEA-2A0A858510AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "..\Telephony\Telephony.csproj", "{9B210235-17AB-4240-9CEA-2A0A858510AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "..\BorderControl\BorderControl.csproj", "{265D3121-EB14-4135-9583-07EC689C4D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BorderControl", "..\BorderControl\BorderControl.csproj", "{265D3121-EB14-4135-9583-07EC689C4D0D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCelebrations", "..\BirthdayCelebrations\BirthdayCelebrations.csproj", "{54D4605F-0DF3-4E9A-95BE-D5F5A05473C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShortage", "..\FoodShortage\FoodShortage.csproj", "{06A29DB9-5178-4168-BDA4-E7630F04A31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryElite", "..\MilitaryElite\MilitaryElite.csproj", "{678216F1-1B8D-4B3A-BE5A-F98D1F25C43E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{265D3121-EB14-4135-9583-07EC689C4D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{265D3121-EB14-4135-9583-07EC689C4D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{265D3121-EB14-4135-9583-07EC689C4D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D4605F-0DF3-4E9A-95BE-D5F5A05473C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D4605F-0DF3-4E9A-95BE-D5F5A05473C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D4605F-0DF3-4E9A-95BE-D5F5A05473C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D4605F-0DF3-4E9A-95BE-D5F5A05473C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A29DB9-5178-4168-BDA4-E7630F04A31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A29DB9-5178-4168-BDA4-E7630F04A31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A29DB9-5178-4168-BDA4-E7630F04A31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A29DB9-5178-4168-BDA4-E7630F04A31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678216F1-1B8D-4B3A-BE5A-F98D1F25C43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678216F1-1B8D-4B3A-BE5A-F98D1F25C43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678216F1-1B8D-4B3A-BE5A-F98D1F25C43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678216F1-1B8D-4B3A-BE5A-F98D1F25C43E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

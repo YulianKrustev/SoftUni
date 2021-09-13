@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace PersonInfo
+﻿namespace PersonInfo
 {
-    public interface IBirthable
+    public interface IBirthdateable
     {
         public string Birthdate { get; set; }
     }

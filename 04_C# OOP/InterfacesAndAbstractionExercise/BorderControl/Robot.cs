@@ -1,6 +1,6 @@
 ﻿namespace BorderControl
 {
-    public class Robot : IId
+    public class Robot : IIdentifiable
     {
         public Robot(string model, string id)
         {

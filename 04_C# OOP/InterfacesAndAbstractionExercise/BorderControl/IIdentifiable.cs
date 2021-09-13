@@ -1,6 +1,6 @@
 ﻿namespace BorderControl
 {
-    public interface IId
+    public interface IIdentifiable
     {
         public string Id { get; }
     }
