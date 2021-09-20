@@ -2,10 +2,19 @@
 
 namespace CollectionHierarchy.Contracts
 {
-    public interface AddCollection
+    public class AddCollection : IAddCollection
     {
+        public AddCollection()
+        {
+            Collection = new List<string>();
+        }
+
         public List<string> Collection { get; }
 
-        public void AddCollection();
+        public int Add(string element)
+        {
+            Collection.Add(element);
+            return Collection.Count - 1;
+        }
     }
 }

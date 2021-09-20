@@ -1,18 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace CollectionHierarchy.Contracts
 {
-    public class MyList : IMyList
+    public class AddRemoveCollection : IAddRemoveCollection
     {
-        public MyList()
+        public AddRemoveCollection()
         {
             Collection = new List<string>();
         }
 
         public List<string> Collection { get; }
-
-        public int Used => Collection.Count;
 
         public int Add(string element)
         {
@@ -22,8 +19,8 @@ namespace CollectionHierarchy.Contracts
 
         public string Remove()
         {
-            string elementForRemove = Collection[0];
-            Collection.RemoveAt(0);
+            string elementForRemove = Collection[Collection.Count - 1];
+            Collection.RemoveAt(Collection.Count - 1);
             return elementForRemove;
         }
     }

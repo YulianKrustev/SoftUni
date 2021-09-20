@@ -2,8 +2,8 @@
 
 namespace CollectionHierarchy.Contracts
 {
-    public interface AddRemoveCollection : AddCollection
+    public interface IAddRemoveCollection : IAddCollection
     {
-        public void Remove();
+        public string Remove();
     }
 }
