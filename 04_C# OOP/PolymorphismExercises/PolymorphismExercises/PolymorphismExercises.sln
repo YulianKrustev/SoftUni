@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismExercises", "Po
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vehicles", "..\Vehicles\Vehicles.csproj", "{92A5FCEA-DD1D-49DA-8631-510B356D0CA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehiclesExtension", "..\VehiclesExtension\VehiclesExtension.csproj", "{91F4B640-AA02-4449-83E1-6BA0DE72D76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehiclesExtension", "..\VehiclesExtension\VehiclesExtension.csproj", "{91F4B640-AA02-4449-83E1-6BA0DE72D76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raiding", "..\Raiding\Raiding.csproj", "{9897FB7D-23EC-4189-A117-E3F113BA9435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Raiding", "..\Raiding\Raiding.csproj", "{9897FB7D-23EC-4189-A117-E3F113BA9435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildFarm", "..\WildFarm\WildFarm.csproj", "{3B4AF267-548F-449F-A3DA-D6D4C9B28C65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{9897FB7D-23EC-4189-A117-E3F113BA9435}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9897FB7D-23EC-4189-A117-E3F113BA9435}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9897FB7D-23EC-4189-A117-E3F113BA9435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4AF267-548F-449F-A3DA-D6D4C9B28C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4AF267-548F-449F-A3DA-D6D4C9B28C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4AF267-548F-449F-A3DA-D6D4C9B28C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4AF267-548F-449F-A3DA-D6D4C9B28C65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
