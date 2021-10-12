@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Reflection;
 
 namespace Stealer
 {
@@ -8,7 +7,7 @@ namespace Stealer
         public void Run()
         {
             Spy spy = new Spy();
-            string result = spy.StealFieldInfo("Stealer.Hacker", "username", "password");
+            string result = spy.RevealPrivateMethods("Stealer.Hacker");
             Console.WriteLine(result);
         }
     }

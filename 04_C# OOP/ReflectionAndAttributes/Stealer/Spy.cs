@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
@@ -28,9 +27,50 @@ namespace Stealer
             }
 
             return builder.ToString().Trim();
+        }
 
+        public string AnalyzeAccessModifiers(string invesigatedClass)
+        {
+            Type type = Type.GetType(invesigatedClass);
+            var fields = type.GetFields(BindingFlags.Instance | BindingFlags.Static | BindingFlags.Public);
+            var publicMethod = type.GetMethods(BindingFlags.Public | BindingFlags.Instance);
+            var nonPublicMethods = type.GetMethods(BindingFlags.Instance | BindingFlags.NonPublic);
 
+            StringBuilder sb = new StringBuilder();
 
+            foreach (FieldInfo field in fields)
+            {
+                sb.AppendLine($"{field.Name} must be private!");
+            }
+
+            foreach (MethodInfo item in nonPublicMethods.Where(m => m.Name.StartsWith("get")))
+            {
+                sb.AppendLine($"{item.Name} have to be public!");
+            }
+
+            foreach (MethodInfo method in publicMethod.Where(m => m.Name.StartsWith("set")))
+            {
+                sb.AppendLine($"{method.Name} have to be private!");
+            }
+
+            return sb.ToString().Trim();
+        }
+
+        public string RevealPrivateMethods(string className)
+        {
+            Type classType = Type.GetType(className);
+            MethodInfo[] privateMethods = classType.GetMethods(BindingFlags.NonPublic | BindingFlags.Instance);
+
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"All Private Methods of Class: {className}");
+            sb.AppendLine($"Base Class: {classType.BaseType.Name}");
+
+            foreach (MethodInfo method in privateMethods)
+            {
+                sb.AppendLine(method.Name);
+            }
+            
+            return sb.ToString().Trim();
         }
     }
 }

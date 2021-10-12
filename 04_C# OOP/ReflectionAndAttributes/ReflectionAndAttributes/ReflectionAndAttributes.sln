@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionAndAttributes", "ReflectionAndAttributes.csproj", "{6200B1A3-5781-43D6-BAAF-C25340208C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stealer", "..\Stealer\Stealer.csproj", "{8477C0EC-F1CC-4E43-93AF-9AE85C715266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stealer", "..\Stealer\Stealer.csproj", "{8477C0EC-F1CC-4E43-93AF-9AE85C715266}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
