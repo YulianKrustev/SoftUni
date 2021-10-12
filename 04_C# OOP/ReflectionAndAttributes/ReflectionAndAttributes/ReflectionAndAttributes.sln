@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionAndAttributes", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stealer", "..\Stealer\Stealer.csproj", "{8477C0EC-F1CC-4E43-93AF-9AE85C715266}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorProblem", "..\AuthorProblem\AuthorProblem.csproj", "{18B55989-F959-47A3-A324-6C9EFF8E1489}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8477C0EC-F1CC-4E43-93AF-9AE85C715266}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8477C0EC-F1CC-4E43-93AF-9AE85C715266}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8477C0EC-F1CC-4E43-93AF-9AE85C715266}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B55989-F959-47A3-A324-6C9EFF8E1489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B55989-F959-47A3-A324-6C9EFF8E1489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B55989-F959-47A3-A324-6C9EFF8E1489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B55989-F959-47A3-A324-6C9EFF8E1489}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
