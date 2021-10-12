@@ -4,7 +4,8 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-
+namespace Stealer
+{
     public class Spy
     {
         public string StealFieldInfo(string name, params string[] fieldsToInvestigate)
@@ -32,3 +33,4 @@ using System.Text;
 
         }
     }
+}

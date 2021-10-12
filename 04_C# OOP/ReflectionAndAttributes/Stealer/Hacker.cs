@@ -1,4 +1,5 @@
-﻿
+﻿namespace Stealer
+{
     public class Hacker
     {
         public string username = "securityGod82";
@@ -19,3 +20,4 @@
         }
 
     }
+}
