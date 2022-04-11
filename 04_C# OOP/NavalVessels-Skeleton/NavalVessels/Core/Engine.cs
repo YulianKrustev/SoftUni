@@ -12,7 +12,7 @@
         private readonly IWriter writer;
         private readonly IReader reader;
         private readonly IController controller;
-        
+
         public Engine()
         {
             this.writer = new Writer();
