@@ -33,7 +33,7 @@ namespace NavalVessels.Core
                 return $"Vessel {selectedVesselName} could not be found.";
             }
 
-            if (vessel.Captain.FullName != "default") 
+            if (vessel.Captain.FullName != "default")
             {
                 return $"Vessel {selectedVesselName} is already occupied.";
             }
@@ -48,12 +48,36 @@ namespace NavalVessels.Core
 
         public string AttackVessels(string attackingVesselName, string defendingVesselName)
         {
-            throw new NotImplementedException();
+            var attackingVessel = vessels.FindByName(attackingVesselName);
+            var defendingVessel = vessels.FindByName(defendingVesselName);
+
+            if (attackingVessel == null || defendingVessel == null)
+            {
+                if (attackingVessel == null)
+                {
+                    return $"Vessel {attackingVesselName} could not be found.";
+                }
+                else
+                {
+                    return $"Vessel {defendingVessel} could not be found.";
+                }
+            }
+
+            if (attackingVessel.ArmorThickness == 0 || defendingVessel.ArmorThickness == 0)
+            {
+                return $"Unarmored vessel {defendingVesselName} cannot attack or be attacked.";
+            }
+
+            attackingVessel.Attack(defendingVessel);
+            attackingVessel.Captain.IncreaseCombatExperience();
+            defendingVessel.Captain.IncreaseCombatExperience();
+
+            return $"Vessel {defendingVesselName} was attacked by vessel {attackingVesselName} - current armor thickness: {defendingVessel.ArmorThickness}.";
         }
 
         public string CaptainReport(string captainFullName)
         {
-            throw new NotImplementedException();
+            return captains.FirstOrDefault(x => x.FullName == captainFullName).Report();
         }
 
         public string HireCaptain(string fullName)
@@ -96,17 +120,45 @@ namespace NavalVessels.Core
 
         public string ServiceVessel(string vesselName)
         {
-            throw new NotImplementedException();
+            var vesselToRapair = vessels.FindByName(vesselName);
+
+            if (vesselToRapair != null)
+            {
+                vesselToRapair.RepairVessel();
+                return $"Vessel {vesselName} was repaired.";
+            }
+            else
+            {
+                return $"Vessel {vesselName} could not be found.";
+            }
         }
 
         public string ToggleSpecialMode(string vesselName)
         {
-            throw new NotImplementedException();
+            var vessel = vessels.FindByName(vesselName);
+            
+            if (vessel == null)
+            {
+                return $"Vessel {vesselName} could not be found.";
+            }
+
+            if (vessel.GetType().Name == "Battleship")
+            {
+                Battleship battleshipVessel = (Battleship)vessel;
+                battleshipVessel.ToggleSonarMode();
+                return $"Battleship {vesselName} toggled sonar mode.";
+            }
+            else 
+            {
+                Submarine submarineVessel = (Submarine)vessel;
+                submarineVessel.ToggleSubmergeMode();
+                return $"Submarine {vesselName} toggled submerge mode.";
+            }
         }
 
         public string VesselReport(string vesselName)
         {
-            throw new NotImplementedException();
+            return vessels.FindByName(vesselName).ToString();
         }
     }
 }

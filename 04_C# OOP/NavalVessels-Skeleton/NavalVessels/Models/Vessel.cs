@@ -10,7 +10,7 @@ namespace NavalVessels.Models
         private string name;
         private readonly ICaptain captain;
         protected int initialArmorThickness;
-        private ICollection<string> targets = new List<string>();
+        private ICollection<string> targets;
 
         protected Vessel(string name, double mainWeaponCaliber, double speed, double armorThickness)
         {
@@ -19,6 +19,7 @@ namespace NavalVessels.Models
             Speed = speed;
             ArmorThickness = armorThickness;
             initialArmorThickness = 0;
+            targets = new List<string>();
         }
 
         public string Name
