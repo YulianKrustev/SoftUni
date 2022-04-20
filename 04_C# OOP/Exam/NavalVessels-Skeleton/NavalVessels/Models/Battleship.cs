@@ -30,8 +30,8 @@ namespace NavalVessels.Models
 
         public override string ToString()
         {
-            string sonarModeText = this.SonarMode == true ? "ON" : "OFF";
-            return base.ToString() + Environment.NewLine + sonarModeText.Trim();
+            string sonarModeText = this.SonarMode == true ? " *Sonar mode: ON" : " *Sonar mode: OFF";
+            return base.ToString() + Environment.NewLine + sonarModeText;
         }
     }
 }

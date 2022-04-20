@@ -8,7 +8,7 @@ namespace NavalVessels.Models
     public abstract class Vessel : Contracts.IVessel
     {
         private string name;
-        private readonly ICaptain captain;
+        private ICaptain captain;
         protected int initialArmorThickness;
         private ICollection<string> targets;
 
@@ -20,6 +20,7 @@ namespace NavalVessels.Models
             ArmorThickness = armorThickness;
             initialArmorThickness = 0;
             targets = new List<string>();
+
         }
 
         public string Name
@@ -45,6 +46,8 @@ namespace NavalVessels.Models
                 {
                     throw new NullReferenceException("Captain cannot be null.");
                 }
+
+                captain = value;
             }
             
         }
@@ -85,18 +88,18 @@ namespace NavalVessels.Models
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine($"- {this.name}");
-            sb.AppendLine($"*Type: {this.GetType().Name}");
-            sb.AppendLine($"*Armor thickness: {this.ArmorThickness}");
-            sb.AppendLine($"*Main weapon caliber: {this.MainWeaponCaliber}");
-            sb.AppendLine($"*Speed: {this.Speed} knots");
+            sb.AppendLine($" *Type: {this.GetType().Name}");
+            sb.AppendLine($" *Armor thickness: {this.ArmorThickness}");
+            sb.AppendLine($" *Main weapon caliber: {this.MainWeaponCaliber}");
+            sb.AppendLine($" *Speed: {this.Speed} knots");
 
             if (Targets.Count == 0)
             {
-                sb.AppendLine("*Targets: None");
+                sb.AppendLine(" *Targets: None");
             }
             else
             {
-                sb.AppendLine($"*Targets: {string.Join(",", Targets)}");
+                sb.AppendLine($" *Targets: {string.Join(",", Targets)}");
             }
 
             return sb.ToString().Trim();

@@ -33,12 +33,12 @@ namespace NavalVessels.Core
                 return $"Vessel {selectedVesselName} could not be found.";
             }
 
-            if (vessel.Captain.FullName != "default")
+            if (vessel.Captain != null)
             {
                 return $"Vessel {selectedVesselName} is already occupied.";
             }
 
-            ICaptain captain = new Captain(selectedCaptainName);
+            var captain = captains.FirstOrDefault(x => x.FullName == selectedCaptainName);
 
             vessel.Captain = captain;
             captain.AddVessel(vessel);
