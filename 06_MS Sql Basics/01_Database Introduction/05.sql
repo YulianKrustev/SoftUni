@@ -1,2 +1,0 @@
-ALTER TABLE Users
-ADD CONSTRAINT CHK_PassordLength CHECK (Password > 4)
