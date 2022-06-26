@@ -133,3 +133,30 @@ SET Balance -= @MoneyAmount
 WHERE Id = @AccountId
 
 COMMIT
+
+--05. Money Transfer
+
+CREATE OR ALTER PROC usp_TransferMoney(@SenderId INT, @ReceiverId INT, @Amount MONEY) 
+AS
+BEGIN TRANSACTION
+	
+	EXEC usp_WithdrawMoney @SenderId, @Amount
+	EXEC usp_DepositMoney @ReceiverId, @Amount
+
+COMMIT
+
+--06. Trigger
+
+UPDATE UsersGames
+SET Cash += 50000
+WHERE 
+	GameId IN (SELECT Id FROM Games WHERE [Name] = 'Bali') AND 
+	UserId IN (SELECT Id FROM Users WHERE Username IN ('baleremuda', 'loosenoise', 'inguinalself', 'buildingdeltoid', 'monoxidecos '))
+
+SELECT u.Username, g.Name, ug.Cash, i.Name FROM UsersGames AS ug
+JOIN Games AS g ON ug.GameId = g.Id
+JOIN UserGameItems AS ui ON ui.UserGameId = 212
+JOIN Items AS i ON ui.ItemId = i.Id
+JOIN Users AS u ON u.Id = ug.UserId
+WHERE g.Name = 'Bali'
+ORDER BY u.Username, i.Name
