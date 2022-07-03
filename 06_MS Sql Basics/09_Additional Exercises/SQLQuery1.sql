@@ -36,6 +36,41 @@ ORDER BY [Items Count] DESC, [Items Price] DESC, u.Username
 
 --04. * User in Games with Their Statistics
 
+    SELECT u.Username AS [Username],
+           g.Name AS [Game],
+           MAX(c.Name) AS [Character],
+           SUM(ist.Strength) + MAX(gst.Strength) + MAX(cs.Strength) AS [Strength],
+           SUM(ist.Defence) + MAX(gst.Defence) + MAX(cs.Defence) AS [Defence],
+           SUM(ist.Speed) + MAX(gst.Speed) + MAX(cs.Speed) AS [Speed],
+           SUM(ist.Mind) + MAX(gst.Mind) + MAX(cs.Mind) AS [Mind],
+           SUM(ist.Luck) + MAX(gst.Luck) + MAX(cs.Luck) AS [Luck]
+      FROM Users AS u
+INNER JOIN UsersGames AS ug
+        ON ug.UserId = u.Id
+INNER JOIN Games AS g
+        ON g.Id = ug.GameId
+INNER JOIN Characters AS c
+        ON c.Id = ug.CharacterId
+INNER JOIN GameTypes AS gt
+        ON gt.Id = g.GameTypeId
+INNER JOIN [Statistics] AS gst
+        ON gst.Id = gt.BonusStatsId
+INNER JOIN [Statistics] AS cs
+        ON cs.Id = c.StatisticId
+INNER JOIN UserGameItems AS ugi
+        ON ugi.UserGameId = ug.Id
+INNER JOIN Items AS i
+        ON i.Id = ugi.ItemId
+INNER JOIN [Statistics] AS ist
+        ON ist.Id = i.StatisticId
+  GROUP BY u.Username, 
+           g.Name
+  ORDER BY [Strength] DESC, 
+           [Defence] DESC, 
+           [Speed] DESC, 
+           [Mind] DESC, 
+           [Luck] DESC
+
 
 --05. All Items with Greater than Average Statistics
 DECLARE @LuckAvg INT = (SELECT AVG(Luck) FROM [Statistics]);
@@ -132,3 +167,70 @@ SELECT c.ContinentName,
 JOIN Countries AS cc ON c.ContinentCode = cc.ContinentCode
 GROUP BY c.ContinentName
 ORDER BY CountriesPopulation DESC
+
+
+--13. Monasteries by Country
+
+CREATE TABLE Monasteries
+(
+	Id INT PRIMARY KEY IDENTITY,
+	[Name] NVARCHAR(MAX) NOT NULL,
+	CountryCode CHAR(2) NOT NULL REFERENCES Countries(CountryCode)
+)
+
+INSERT INTO Monasteries(Name, CountryCode) VALUES
+('Rila Monastery “St. Ivan of Rila”', 'BG'), 
+('Bachkovo Monastery “Virgin Mary”', 'BG'),
+('Troyan Monastery “Holy Mother''s Assumption”', 'BG'),
+('Kopan Monastery', 'NP'),
+('Thrangu Tashi Yangtse Monastery', 'NP'),
+('Shechen Tennyi Dargyeling Monastery', 'NP'),
+('Benchen Monastery', 'NP'),
+('Southern Shaolin Monastery', 'CN'),
+('Dabei Monastery', 'CN'),
+('Wa Sau Toi', 'CN'),
+('Lhunshigyia Monastery', 'CN'),
+('Rakya Monastery', 'CN'),
+('Monasteries of Meteora', 'GR'),
+('The Holy Monastery of Stavronikita', 'GR'),
+('Taung Kalat Monastery', 'MM'),
+('Pa-Auk Forest Monastery', 'MM'),
+('Taktsang Palphug Monastery', 'BT'),
+('Sümela Monastery', 'TR')
+
+ALTER TABLE Countries 
+ADD IsDeleted BIT NOT NULL
+CONSTRAINT DF_ValueIsDeleted DEFAULT 0
+
+UPDATE Countries
+SET IsDeleted = 1
+WHERE CountryCode IN 
+(
+	SELECT c.CountryCode FROM Countries AS c
+	JOIN CountriesRivers AS cr ON c.CountryCode = cr.CountryCode
+	JOIN Rivers AS r ON cr.RiverId = r.Id
+	GROUP BY c.CountryCode
+	HAVING COUNT(c.ContinentCode) > 3
+)   
+
+SELECT m.Name AS Monastery, c.CountryName AS Country FROM Monasteries AS m
+JOIN Countries AS c ON m.CountryCode = c.CountryCode
+WHERE c.IsDeleted IS NULL
+ORDER BY m.Name 
+
+--14. Monasteries by Continents and Countries
+
+UPDATE Countries
+SET CountryName = 'Burma'
+WHERE CountryName = 'Myanmar'
+
+INSERT INTO Monasteries ([Name], CountryCode) VALUES
+	('Hanga Abbey', (SELECT CountryCode FROM Countries WHERE CountryName = 'Tanzania')),
+	('Myin-Tin-Daik', (SELECT CountryCode FROM Countries WHERE CountryName = 'Myanmar'))
+
+SELECT c.ContinentName, cou.CountryName, COUNT(m.Name) AS MonasteriesCount FROM Continents AS c
+JOIN Countries AS cou ON c.ContinentCode = cou.ContinentCode
+LEFT JOIN Monasteries AS m ON cou.CountryCode = m.CountryCode
+WHERE cou.IsDeleted = 0
+GROUP BY c.ContinentName, cou.CountryName
+ORDER BY MonasteriesCount DESC, CountryName
