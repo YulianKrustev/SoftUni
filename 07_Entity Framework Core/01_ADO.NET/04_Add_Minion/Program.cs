@@ -38,20 +38,28 @@ namespace _04_Add_Minion
                     Console.WriteLine($"Town {minionTown} was added to the database.");
                 }
 
-                sqlCommand.CommandText = @"SELECT Name FROM Villains WHERE Name = '@villainName";
+                sqlConnection.Close();
+                sqlConnection.Open();
+                sqlCommand.CommandText = @"SELECT Name FROM Villains WHERE Name = @villainName";
                 sqlCommand.Parameters.AddWithValue("@villainName", villainName);
+                reader = sqlCommand.ExecuteReader();
 
 
                 if (!reader.HasRows)
                 {
+                    sqlConnection.Close();
+                    sqlConnection.Open();
                     sqlCommand.CommandText = @"INSERT INTO Villains (Name, EvilnessFactorId) VALUES (@villainName, 1)";
                     sqlCommand.ExecuteNonQuery();
 
                     Console.WriteLine($"Villain {villainName} was added to the database.");
                 }
 
-                sqlCommand.CommandText = @"SELECT Name FROM Minions WHERE Name = '@minionName";
+                sqlConnection.Close();
+                sqlConnection.Open();
+                sqlCommand.CommandText = @"SELECT Name FROM Minions WHERE Name = @minionName";
                 sqlCommand.Parameters.AddWithValue("@minionName", minionName);
+                reader = sqlCommand.ExecuteReader(); 
 
                 if (!reader.HasRows)
                 {
@@ -61,6 +69,12 @@ namespace _04_Add_Minion
                     sqlCommand.Parameters.AddWithValue("@minionAge", minionAge);
                     sqlCommand.ExecuteNonQuery();
 
+                    sqlCommand.CommandText = @"INSERT INTO MinionsVillains
+                                               VALUES(
+                                                      (SELECT Id FROM Minions WHERE Name = @minionName), 
+                                                      (SELECT Id FROM Villains WHERE Name = @villainName)
+                                                      )";
+                    sqlCommand.ExecuteNonQuery();
                     Console.WriteLine($"Successfully added {minionName} to be minion of {villainName}.");
                 }
             }
