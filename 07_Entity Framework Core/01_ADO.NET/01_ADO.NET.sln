@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Initial_Setup", "01_Init
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Villain_Names", "02_Villain_Names\02_Villain_Names.csproj", "{0F357684-6A81-4557-A6D5-C8353CC12068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Minion_Names", "03_Minion_Names\03_Minion_Names.csproj", "{0F2DD904-38B1-45A6-BD0A-DF5A8DA180BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Minion_Names", "03_Minion_Names\03_Minion_Names.csproj", "{0F2DD904-38B1-45A6-BD0A-DF5A8DA180BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Add_Minion", "04_Add_Minion\04_Add_Minion.csproj", "{AE4EA364-34CA-498C-A9A2-F1D8BF8A8E8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0F2DD904-38B1-45A6-BD0A-DF5A8DA180BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2DD904-38B1-45A6-BD0A-DF5A8DA180BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2DD904-38B1-45A6-BD0A-DF5A8DA180BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4EA364-34CA-498C-A9A2-F1D8BF8A8E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4EA364-34CA-498C-A9A2-F1D8BF8A8E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4EA364-34CA-498C-A9A2-F1D8BF8A8E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4EA364-34CA-498C-A9A2-F1D8BF8A8E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
